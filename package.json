@@ -1,0 +1,41 @@
+{
+  "name": "awesome-gpt-image-2-prompts",
+  "version": "1.0.0",
+  "description": "The world's largest curated collection of GPT Image 2 prompts, powered by NeoSpark",
+  "scripts": {
+    "update-readme": "node scripts/update-readme.js",
+    "scrape-twitter": "python scripts/scrape-twitter.py",
+    "lint": "markdownlint README.md README_*.md",
+    "build": "npm run update-readme"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neospark-labs/awesome-gpt-image-2.git"
+  },
+  "keywords": [
+    "gpt-image-2",
+    "gpt-image-2-prompts",
+    "ai-image-generation",
+    "prompt-engineering",
+    "openai",
+    "chatgpt",
+    "image-generation",
+    "ai-prompts",
+    "awesome",
+    "awesome-list",
+    "neospark",
+    "multilingual",
+    "design-prompts",
+    "marketing-prompts",
+    "photography-prompts"
+  ],
+  "author": "NeoSpark Labs",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/neospark-labs/awesome-gpt-image-2/issues"
+  },
+  "homepage": "https://useneospark.com/prompt-lib?ref=awesome-gpt-image-2",
+  "devDependencies": {
+    "markdownlint-cli": "^0.41.0"
+  }
+}

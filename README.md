@@ -1,7 +1,7 @@
 <div align="center">
 
-<a href="https://useneospark.com/?ref=awesome-gpt-image-2" target="_blank">
-  <img src="https://useneospark.com/images/og-image.jpg" alt="NeoSpark - Your AI Agent-powered creative team" width="800">
+<a href="https://www.youtube.com/watch?v=ylZYhEdoCaw" target="_blank">
+  <img src="https://img.youtube.com/vi/ylZYhEdoCaw/maxresdefault.jpg" alt="Watch on YouTube" width="800">
 </a>
 
 <h1>Awesome GPT Image 2 Prompts</h1>

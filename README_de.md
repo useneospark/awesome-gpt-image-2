@@ -1,7 +1,7 @@
 <div align="center">
 
-<a href="https://useneospark.com/?ref=awesome-gpt-image-2" target="_blank">
-  <img src="https://useneospark.com/images/og-image.jpg" alt="NeoSpark - Ihr KI-gesteuertes Kreativteam" width="800">
+<a href="https://www.youtube.com/watch?v=ylZYhEdoCaw" target="_blank">
+  <img src="https://img.youtube.com/vi/ylZYhEdoCaw/maxresdefault.jpg" alt="Watch on YouTube" width="800">
 </a>
 
 <h1>Awesome GPT Image 2 Prompts</h1>
@@ -33,16 +33,16 @@ Handverlesen, getestet und organisiert für Kreative, Marketer und Designer.</p>
 
 | Kategorie | Prompts | Auf NeoSpark testen |
 |-----------|---------|-------------------|
-| [Kinomatografisch & Film](#kinomatografisch--film) | 12 | [Generieren](https://useneospark.com/prompt-lib?category=cinematic&ref=awesome-gpt-image-2) |
-| [Porträts & Schönheit](#porträts--schönheit) | 10 | [Generieren](https://useneospark.com/prompt-lib?category=portraits&ref=awesome-gpt-image-2) |
-| [Produktfotografie](#produktfotografie) | 8 | [Generieren](https://useneospark.com/prompt-lib?category=product&ref=awesome-gpt-image-2) |
-| [UI & App-Design](#ui--app-design) | 8 | [Generieren](https://useneospark.com/prompt-lib?category=ui-design&ref=awesome-gpt-image-2) |
-| [Fantasie & Anime](#fantasie--anime) | 10 | [Generieren](https://useneospark.com/prompt-lib?category=fantasy&ref=awesome-gpt-image-2) |
-| [Natur & Landschaften](#natur--landschaften) | 10 | [Generieren](https://useneospark.com/prompt-lib?category=nature&ref=awesome-gpt-image-2) |
-| [Marketing & Social Media](#marketing--social-media) | 8 | [Generieren](https://useneospark.com/prompt-lib?category=marketing&ref=awesome-gpt-image-2) |
-| [Typografie & Poster](#typografie--poster) | 6 | [Generieren](https://useneospark.com/prompt-lib?category=typography&ref=awesome-gpt-image-2) |
-| [Architektur & Interieur](#architektur--interieur) | 6 | [Generieren](https://useneospark.com/prompt-lib?category=architecture&ref=awesome-gpt-image-2) |
-| [Experimentell & Spaß](#experimentell--spaß) | 6 | [Generieren](https://useneospark.com/prompt-lib?category=experimental&ref=awesome-gpt-image-2) |
+| [Kinomatografisch & Film](#kinomatografisch--film) | 12 | [Generieren](https://platform.useneospark.com/) |
+| [Porträts & Schönheit](#porträts--schönheit) | 10 | [Generieren](https://platform.useneospark.com/) |
+| [Produktfotografie](#produktfotografie) | 8 | [Generieren](https://platform.useneospark.com/) |
+| [UI & App-Design](#ui--app-design) | 8 | [Generieren](https://platform.useneospark.com/) |
+| [Fantasie & Anime](#fantasie--anime) | 10 | [Generieren](https://platform.useneospark.com/) |
+| [Natur & Landschaften](#natur--landschaften) | 10 | [Generieren](https://platform.useneospark.com/) |
+| [Marketing & Social Media](#marketing--social-media) | 8 | [Generieren](https://platform.useneospark.com/) |
+| [Typografie & Poster](#typografie--poster) | 6 | [Generieren](https://platform.useneospark.com/) |
+| [Architektur & Interieur](#architektur--interieur) | 6 | [Generieren](https://platform.useneospark.com/) |
+| [Experimentell & Spaß](#experimentell--spaß) | 6 | [Generieren](https://platform.useneospark.com/) |
 
 **Insgesamt: 84+ produktionsreife Prompts** — [Die vollständige Bibliothek auf NeoSpark durchsuchen](https://useneospark.com/prompt-lib?ref=awesome-gpt-image-2)
 
@@ -68,36 +68,60 @@ Handverlesen, getestet und organisiert für Kreative, Marketer und Designer.</p>
 
 > Cinematografische Weitwinkelaufnahme. Eine einsame Figur in einer schwarzen Techwear-Jacke steht um Mitternacht auf einem regennassen Dach in Tokio. Neon-Schilder auf Japanisch und Englisch spiegeln sich in Pfützen. Ferne holographische Werbeanzeigen schweben zwischen Wolkenkratzern. Leuchtender Regen wird als Streifen eingefangen. Anamorphotisches Objektiv, 2.39:1 Breitbild, Filmkorn, türkisblaue Schatten und magenta Highlights. Blade Runner 2049 Ästhetik.
 
+
+<p align="center">
+  <img src="public/images/featured/featured-cyberpunk-tokyo.png" alt="" width="500">
+</p>
 [**Diesen Prompt auf NeoSpark testen →**](https://useneospark.com/prompt-lib?prompt=cyberpunk-tokyo&ref=awesome-gpt-image-2)
 
 ### 2. Professionelles LinkedIn-Headshot
 
 > Professionelle Halbfigur-Porträt einer selbstbewussten Frau in den frühen Dreißigern, die einen maßgeschneiderten Marineblauen Blazer und eine cremefarbene Seidenbluse trägt. Neutrale graue Studio-Kulisse. Klassische Drei-Punkt-Beleuchtung. Aufgenommen mit 85mm bei f/2.8, scharfer Fokus auf den Augen mit geringer Schärfentiefe. Natürliche Hauttextur, sichtbare Poren, kein Beauty-Filter.
 
+
+<p align="center">
+  <img src="public/images/featured/featured-linkedin-headshot.png" alt="" width="500">
+</p>
 [**Diesen Prompt auf NeoSpark testen →**](https://useneospark.com/prompt-lib?prompt=linkedin-headshot&ref=awesome-gpt-image-2)
 
 ### 3. Isometrischer 3D-Arbeitsplatz
 
 > 45-Grad-isometrische 3D-Miniaturszene eines modernen Designer-Arbeitsplatzes auf einer hellen Holz-Display-Basis. Ein elegantes iMac, eine kabellose Tastatur, eine eingetopfte Monstera-Pflanze, eine Kaffeetasse und Designbücher ordentlich angeordnet. Weiche PBR-Texturen, realistische Materialien. Pastellfarbepalette dominiert von Salbeigrün und warmem Creme.
 
+
+<p align="center">
+  <img src="public/images/featured/featured-isometric-workspace.png" alt="" width="500">
+</p>
 [**Diesen Prompt auf NeoSpark testen →**](https://useneospark.com/prompt-lib?prompt=isometric-workspace&ref=awesome-gpt-image-2)
 
 ### 4. Schwarzer Sandstrand Island
 
 > Dramatische Weitwinkel-Landschaft des Reynisfjara-Schwarzsandstrandes in Island in der Morgendämmerung. Massive Basaltsäulen erheben sich aus dem aufgewühlten Nordatlantik. Niedriger Nebel zieht über den schwarzen Vulkansand. Eine einzelne Figur in einer leuchtend roten Regenjacke geht als Maßstab entlang der Küstenlinie. Melancholische, entsättigte Farbgebung. 24mm-Weitwinkelobjektiv, f/11. Ultra-detailliertes 4K, National Geographic Qualität.
 
+
+<p align="center">
+  <img src="public/images/featured/featured-iceland-beach.png" alt="" width="500">
+</p>
 [**Diesen Prompt auf NeoSpark testen →**](https://useneospark.com/prompt-lib?prompt=iceland-beach&ref=awesome-gpt-image-2)
 
 ### 5. Fantasy RPG Charakterblatt
 
 > Professionelles Charakter-Referenzblatt für einen originalen Fantasy-RPG-Charakter: eine junge Magierin mit silberweißem Haar und violetten Augen, die einen verzierten dunklen Umhang mit leuchtenden türkisfarbenen Runenmustern trägt. Auf sauberem weißen Hintergrund: Drei-Seiten-Ansicht, Gesichtsausdrucksvariationen. Seitenverhältnis 16:9.
 
+
+<p align="center">
+  <img src="public/images/featured/featured-rpg-character-sheet.png" alt="" width="500">
+</p>
 [**Diesen Prompt auf NeoSpark testen →**](https://useneospark.com/prompt-lib?prompt=rpg-character-sheet&ref=awesome-gpt-image-2)
 
 ### 6. VR-Headset Explosionszeichnung Poster
 
 > Premium-Produktposter, vertikales 3:4-Layout. Mitte: Explosionszeichnung eines futuristischen VR-Headsets, bei der jede Komponente in perfekter Ausrichtung schwebt. Sauberer weißer Hintergrund mit subtilem Farbverlauf. Weiches Studio-Licht von oben. Professioneller Produktfotografie-Stil, ultrascharf, Apple-Level Präsentationsqualität.
 
+
+<p align="center">
+  <img src="public/images/featured/featured-vr-exploded-view.png" alt="" width="500">
+</p>
 [**Diesen Prompt auf NeoSpark testen →**](https://useneospark.com/prompt-lib?prompt=vr-exploded-view&ref=awesome-gpt-image-2)
 
 ---

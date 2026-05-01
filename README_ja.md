@@ -1,7 +1,7 @@
 <div align="center">
 
-<a href="https://useneospark.com/?ref=awesome-gpt-image-2" target="_blank">
-  <img src="https://useneospark.com/images/og-image.jpg" alt="NeoSpark - AI駆動のクリエイティブチーム" width="800">
+<a href="https://www.youtube.com/watch?v=ylZYhEdoCaw" target="_blank">
+  <img src="https://img.youtube.com/vi/ylZYhEdoCaw/maxresdefault.jpg" alt="Watch on YouTube" width="800">
 </a>
 
 <h1>Awesome GPT Image 2 プロンプト集</h1>
@@ -33,16 +33,16 @@
 
 | カテゴリ | プロンプト数 | NeoSparkで試す |
 |----------|-------------|----------------|
-| [シネマ & 映画](#シネマ--映画) | 12 | [生成](https://useneospark.com/prompt-lib?category=cinematic&ref=awesome-gpt-image-2) |
-| [ポートレート & ビューティ](#ポートレート--ビューティ) | 10 | [生成](https://useneospark.com/prompt-lib?category=portraits&ref=awesome-gpt-image-2) |
-| [プロダクト写真](#プロダクト写真) | 8 | [生成](https://useneospark.com/prompt-lib?category=product&ref=awesome-gpt-image-2) |
-| [UI & アプリデザイン](#ui--アプリデザイン) | 8 | [生成](https://useneospark.com/prompt-lib?category=ui-design&ref=awesome-gpt-image-2) |
-| [ファンタジー & アニメ](#ファンタジー--アニメ) | 10 | [生成](https://useneospark.com/prompt-lib?category=fantasy&ref=awesome-gpt-image-2) |
-| [自然 & 風景](#自然--風景) | 10 | [生成](https://useneospark.com/prompt-lib?category=nature&ref=awesome-gpt-image-2) |
-| [マーケティング & SNS](#マーケティング--sns) | 8 | [生成](https://useneospark.com/prompt-lib?category=marketing&ref=awesome-gpt-image-2) |
-| [タイポグラフィ & ポスター](#タイポグラフィ--ポスター) | 6 | [生成](https://useneospark.com/prompt-lib?category=typography&ref=awesome-gpt-image-2) |
-| [建築 & インテリア](#建築--インテリア) | 6 | [生成](https://useneospark.com/prompt-lib?category=architecture&ref=awesome-gpt-image-2) |
-| [実験 & 楽しい](#実験--楽しい) | 6 | [生成](https://useneospark.com/prompt-lib?category=experimental&ref=awesome-gpt-image-2) |
+| [シネマ & 映画](#シネマ--映画) | 12 | [生成](https://platform.useneospark.com/) |
+| [ポートレート & ビューティ](#ポートレート--ビューティ) | 10 | [生成](https://platform.useneospark.com/) |
+| [プロダクト写真](#プロダクト写真) | 8 | [生成](https://platform.useneospark.com/) |
+| [UI & アプリデザイン](#ui--アプリデザイン) | 8 | [生成](https://platform.useneospark.com/) |
+| [ファンタジー & アニメ](#ファンタジー--アニメ) | 10 | [生成](https://platform.useneospark.com/) |
+| [自然 & 風景](#自然--風景) | 10 | [生成](https://platform.useneospark.com/) |
+| [マーケティング & SNS](#マーケティング--sns) | 8 | [生成](https://platform.useneospark.com/) |
+| [タイポグラフィ & ポスター](#タイポグラフィ--ポスター) | 6 | [生成](https://platform.useneospark.com/) |
+| [建築 & インテリア](#建築--インテリア) | 6 | [生成](https://platform.useneospark.com/) |
+| [実験 & 楽しい](#実験--楽しい) | 6 | [生成](https://platform.useneospark.com/) |
 
 **合計: 84+ 本番用プロンプト** — [NeoSparkで完全ライブラリを閲覧](https://useneospark.com/prompt-lib?ref=awesome-gpt-image-2)
 
@@ -68,36 +68,60 @@
 
 > 映画のようなワイドショット。黒いテックウェアジャケットを着た孤独な人物が、真夜中の雨に濡れた東京の屋上に立っている。ピンク、シアン、エレクトリックブルーのネオンサインが水たまりに反射している。遠くの高層ビルの間にホログラフィック広告が浮かんでいる。光る雨が筋として捉えられている。アナモルフィックレンズ、2.39:1ワイドスクリーン、フィルムグレイン、ティールの影とマゼンタのハイライト。ブレードランナー2049の美学。
 
+
+<p align="center">
+  <img src="public/images/featured/featured-cyberpunk-tokyo.png" alt="" width="500">
+</p>
 [**NeoSparkでこのプロンプトを試す →**](https://useneospark.com/prompt-lib?prompt=cyberpunk-tokyo&ref=awesome-gpt-image-2)
 
 ### 2. プロフェッショナルLinkedInヘッドショット
 
 > 30代前半で、自信に満ちた女性のプロフェッショナルなミディアムショットのポートレート。ネイビーブルーのテーラードブレザーとクリーム色のシルクブラウスを着用。ニュートラルグレーのスタジオ背景。ソフトな3点照明。85mmレンズ、f/2.8で撮影。目に鋭い焦点、浅い被写界深度。自然な肌のテクスチャ、見える毛穴、美容フィルターなし。
 
+
+<p align="center">
+  <img src="public/images/featured/featured-linkedin-headshot.png" alt="" width="500">
+</p>
 [**NeoSparkでこのプロンプトを試す →**](https://useneospark.com/prompt-lib?prompt=linkedin-headshot&ref=awesome-gpt-image-2)
 
 ### 3. アイソメトリック3Dワークスペース
 
 > 45度アイソメトリックミニチュア3Dシーン。ライトウッドのディスプレイベースに置かれた、モダンなデザイナーのワークスペースのジオラマ。スリークなiMac、ワイヤレスキーボード、モンステラの鉢植え、コーヒーカップ、デザイン本が整然と配置されている。ソフトなPBRテクスチャ、リアルなマテリアル。セージグリーンとウォームクリームのパステルカラーパレット。
 
+
+<p align="center">
+  <img src="public/images/featured/featured-isometric-workspace.png" alt="" width="500">
+</p>
 [**NeoSparkでこのプロンプトを試す →**](https://useneospark.com/prompt-lib?prompt=isometric-workspace&ref=awesome-gpt-image-2)
 
 ### 4. アイスランド黒砂ビーチ
 
 > アイスランドのレイニスフィヤラ黒砂ビーチの劇的なワイド風景。北大西洋からそびえる巨大な玄武岩の海食柱。黒い火山砂を横切る低い霧。海岸線を歩く真っ赤なレインジャケットを着た孤独な人物。ムーディーな低彩度カラーグレーディング。24mmワイドレンズ、f/11。ウルトラディテール4K、ナショナルジオグラフィック品質。
 
+
+<p align="center">
+  <img src="public/images/featured/featured-iceland-beach.png" alt="" width="500">
+</p>
 [**NeoSparkでこのプロンプトを試す →**](https://useneospark.com/prompt-lib?prompt=iceland-beach&ref=awesome-gpt-image-2)
 
 ### 5. ファンタジーRPGキャラクターシート
 
 > オリジナルのファンタジーRPGキャラクターのプロフェッショナルなキャラクターリファレンスシート。銀白色の髪と紫色の目を持つ若い女性メイジ。暗いクロークに光るティールのルーンパターン。クリーンな白い背景に：フロント、サイド、バックの3ビューターンアラウンド。表情バリエーション。16:9のアスペクト比。
 
+
+<p align="center">
+  <img src="public/images/featured/featured-rpg-character-sheet.png" alt="" width="500">
+</p>
 [**NeoSparkでこのプロンプトを試す →**](https://useneospark.com/prompt-lib?prompt=rpg-character-sheet&ref=awesome-gpt-image-2)
 
 ### 6. VRヘッドセット分解図ポスター
 
 > プレミアム製品ポスター。中央に未来派的なVRヘッドセットの分解図。レンズ、ディスプレイパネル、回路基板、バッテリーパック、ヘッドストラップが完璧なアラインメントで浮遊。クリーンな白い背景。各コンポーネントに細い線とミニマルなサンセリフテキストでラベル付け。アップルレベルのプレゼンテーション品質。
 
+
+<p align="center">
+  <img src="public/images/featured/featured-vr-exploded-view.png" alt="" width="500">
+</p>
 [**NeoSparkでこのプロンプトを試す →**](https://useneospark.com/prompt-lib?prompt=vr-exploded-view&ref=awesome-gpt-image-2)
 
 ---

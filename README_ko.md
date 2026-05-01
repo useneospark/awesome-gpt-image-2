@@ -1,7 +1,7 @@
 <div align="center">
 
-<a href="https://useneospark.com/?ref=awesome-gpt-image-2" target="_blank">
-  <img src="https://useneospark.com/images/og-image.jpg" alt="NeoSpark - AI 기반 크리에이티브 팀" width="800">
+<a href="https://www.youtube.com/watch?v=ylZYhEdoCaw" target="_blank">
+  <img src="https://img.youtube.com/vi/ylZYhEdoCaw/maxresdefault.jpg" alt="Watch on YouTube" width="800">
 </a>
 
 <h1>Awesome GPT Image 2 프롬프트 모음</h1>
@@ -33,16 +33,16 @@
 
 | 카테고리 | 프롬프트 수 | NeoSpark에서 시도 |
 |----------|-----------|------------------|
-| [시네마틱 & 영화](#시네마틱--영화) | 12 | [생성](https://useneospark.com/prompt-lib?category=cinematic&ref=awesome-gpt-image-2) |
-| [인물 & 뷰티](#인물--뷰티) | 10 | [생성](https://useneospark.com/prompt-lib?category=portraits&ref=awesome-gpt-image-2) |
-| [제품 사진](#제품-사진) | 8 | [생성](https://useneospark.com/prompt-lib?category=product&ref=awesome-gpt-image-2) |
-| [UI & 앱 디자인](#ui--앱-디자인) | 8 | [생성](https://useneospark.com/prompt-lib?category=ui-design&ref=awesome-gpt-image-2) |
-| [판타지 & 애니메이션](#판타지--애니메이션) | 10 | [생성](https://useneospark.com/prompt-lib?category=fantasy&ref=awesome-gpt-image-2) |
-| [자연 & 풍경](#자연--풍경) | 10 | [생성](https://useneospark.com/prompt-lib?category=nature&ref=awesome-gpt-image-2) |
-| [마케팅 & 소셜 미디어](#마케팅--소셜-미디어) | 8 | [생성](https://useneospark.com/prompt-lib?category=marketing&ref=awesome-gpt-image-2) |
-| [타이포그래피 & 포스터](#타이포그래피--포스터) | 6 | [생성](https://useneospark.com/prompt-lib?category=typography&ref=awesome-gpt-image-2) |
-| [건축 & 인테리어](#건축--인테리어) | 6 | [생성](https://useneospark.com/prompt-lib?category=architecture&ref=awesome-gpt-image-2) |
-| [실험적 & 재미](#실험적--재미) | 6 | [생성](https://useneospark.com/prompt-lib?category=experimental&ref=awesome-gpt-image-2) |
+| [시네마틱 & 영화](#시네마틱--영화) | 12 | [생성](https://platform.useneospark.com/) |
+| [인물 & 뷰티](#인물--뷰티) | 10 | [생성](https://platform.useneospark.com/) |
+| [제품 사진](#제품-사진) | 8 | [생성](https://platform.useneospark.com/) |
+| [UI & 앱 디자인](#ui--앱-디자인) | 8 | [생성](https://platform.useneospark.com/) |
+| [판타지 & 애니메이션](#판타지--애니메이션) | 10 | [생성](https://platform.useneospark.com/) |
+| [자연 & 풍경](#자연--풍경) | 10 | [생성](https://platform.useneospark.com/) |
+| [마케팅 & 소셜 미디어](#마케팅--소셜-미디어) | 8 | [생성](https://platform.useneospark.com/) |
+| [타이포그래피 & 포스터](#타이포그래피--포스터) | 6 | [생성](https://platform.useneospark.com/) |
+| [건축 & 인테리어](#건축--인테리어) | 6 | [생성](https://platform.useneospark.com/) |
+| [실험적 & 재미](#실험적--재미) | 6 | [생성](https://platform.useneospark.com/) |
 
 **총계: 84+ 프로덕션용 프롬프트** — [NeoSpark에서 전체 라이브러리 탐색](https://useneospark.com/prompt-lib?ref=awesome-gpt-image-2)
 
@@ -68,36 +68,60 @@
 
 > 영화 같은 와이드 샷. 검은 테크웨어 재킷을 입은 외로운 인물이 자정의 비 내리는 도쿄 옥상에 서 있다. 핑크, 시안, 일렉트릭 블루의 네온 사인이 웅덩이에 반사된다. 먼 고층 빌딩 사이로 홀로그램 광고가 떠다닌다. 빛나는 비가 줄무늬로 포착된다. 아나모픽 렌즈, 2.39:1 와이드스크린, 필름 그레인, 틸 섀도우와 마젠타 하이라이트. 블레이드 러너 2049 미학.
 
+
+<p align="center">
+  <img src="public/images/featured/featured-cyberpunk-tokyo.png" alt="" width="500">
+</p>
 [**NeoSpark에서 이 프롬프트 시도하기 →**](https://useneospark.com/prompt-lib?prompt=cyberpunk-tokyo&ref=awesome-gpt-image-2)
 
 ### 2. 전문 LinkedIn 헤드샷
 
 > 전문 미디엄 샷 초상화. 30대 초반의 자신감 있는 여성이 네이비 블루 테일러드 블레이저와 크림색 실크 블라우스를 입고 있다. 중성 그레이 스튜디오 배경. 클래식 3점 조명. 85mm 렌즈 f/2.8로 촬영, 눈에 날카로운 초점, 얕은 피사계 심도. 자연스러운 피부 텍스처, 보이는 모공, 뷰티 필터 없음.
 
+
+<p align="center">
+  <img src="public/images/featured/featured-linkedin-headshot.png" alt="" width="500">
+</p>
 [**NeoSpark에서 이 프롬프트 시도하기 →**](https://useneospark.com/prompt-lib?prompt=linkedin-headshot&ref=awesome-gpt-image-2)
 
 ### 3. 아이소메트릭 3D 워크스페이스
 
 > 45도 아이소메트릭 미니어처 3D 장면. 라이트 우드 디스플레이 베이스 위의 현대적인 디자이너의 워크스페이스 디오라마. 세련된 iMac, 무선 키보드, 몬스테라 화분, 커피 컵, 디자인 서적이 깔끔하게 배열되어 있다. 소프트 PBR 텍스처, 리얼한 소재. 세이지 그린과 웜 크림 색상의 파스텔 팔레트.
 
+
+<p align="center">
+  <img src="public/images/featured/featured-isometric-workspace.png" alt="" width="500">
+</p>
 [**NeoSpark에서 이 프롬프트 시도하기 →**](https://useneospark.com/prompt-lib?prompt=isometric-workspace&ref=awesome-gpt-image-2)
 
 ### 4. 아이슬란드 흑사 해변
 
 > 극적인 아이슬란드 레이니스피야라 흑사 해변의 새벽 와이드 풍경. 거대한 현무암 해식주가 거친 북대서양에서 솟아오른다. 검은 화산사 위로 낮은 안개가 흐른다. 밝은 빨간 레인 재킷을 입은 단독 인물이 비율감을 위해 해안선을 걷는다. 우울한 저채도 컬러 그레이딩. 24mm 와이드 렌즈, f/11 깊은 피사계 심도. 울트라 디테일 4K, 내셔널 지오그래픽 퀄리티.
 
+
+<p align="center">
+  <img src="public/images/featured/featured-iceland-beach.png" alt="" width="500">
+</p>
 [**NeoSpark에서 이 프롬프트 시도하기 →**](https://useneospark.com/prompt-lib?prompt=iceland-beach&ref=awesome-gpt-image-2)
 
 ### 5. 판타지 RPG 캐릭터 시트
 
 > 오리지널 판타지 RPG 캐릭터의 전문 캐릭터 레퍼런스 시트. 은백색 머리와 보라색 눈을 가진 젊은 여성 마법사. 빛나는 청록색 룬 패턴이 있는 화려한 어두운 망토. 깨끗한 흰색 배경 위에: 전면, 측면, 후면의 3뷰 턴어라운드. 표정 변화. 16:9 화면비.
 
+
+<p align="center">
+  <img src="public/images/featured/featured-rpg-character-sheet.png" alt="" width="500">
+</p>
 [**NeoSpark에서 이 프롬프트 시도하기 →**](https://useneospark.com/prompt-lib?prompt=rpg-character-sheet&ref=awesome-gpt-image-2)
 
 ### 6. VR 헤드셋 분해도 포스터
 
 > 프리미엄 제품 포스터. 중앙에 미래지향적인 VR 헤드셋의 분해도. 렌즈, 디스플레이 패널, 회로 기판, 배터리 팩, 헤드스트랩이 완벽한 정렬로 부유한다. 깨끗한 흰색 배경. 각 구성 요소에 가는 선과 미니멀 산세리프 텍스트로 라벨링. 애플 수준의 프레젠테이션 퀄리티.
 
+
+<p align="center">
+  <img src="public/images/featured/featured-vr-exploded-view.png" alt="" width="500">
+</p>
 [**NeoSpark에서 이 프롬프트 시도하기 →**](https://useneospark.com/prompt-lib?prompt=vr-exploded-view&ref=awesome-gpt-image-2)
 
 ---

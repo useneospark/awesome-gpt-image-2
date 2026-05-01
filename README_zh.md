@@ -131,7 +131,7 @@
 
 
 <p align="center">
-  <img src="public/images/cinematic/film-noir-femme-fatale.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/cinematic/film-noir-femme-fatale.png" alt="" width="500">
 </p>
 
 ### 韦斯·安德森酒店大堂
@@ -140,7 +140,7 @@
 
 
 <p align="center">
-  <img src="public/images/cinematic/wes-anderson-hotel-lobby.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/cinematic/wes-anderson-hotel-lobby.png" alt="" width="500">
 </p>
 
 ### 丹尼斯·维伦纽瓦沙漠史诗
@@ -149,7 +149,7 @@
 
 
 <p align="center">
-  <img src="public/images/cinematic/denis-villeneuve-desert-epic.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/cinematic/denis-villeneuve-desert-epic.png" alt="" width="500">
 </p>
 
 ### 迈阿密风云霓虹
@@ -158,7 +158,7 @@
 
 
 <p align="center">
-  <img src="public/images/cinematic/miami-vice-neon.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/cinematic/miami-vice-neon.png" alt="" width="500">
 </p>
 
 ### 意大利铅黄恐怖片
@@ -167,7 +167,7 @@
 
 
 <p align="center">
-  <img src="public/images/cinematic/italian-giallo-horror.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/cinematic/italian-giallo-horror.png" alt="" width="500">
 </p>
 
 ### 吉卜力真人版
@@ -176,7 +176,7 @@
 
 
 <p align="center">
-  <img src="public/images/cinematic/studio-ghibli-live-action.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/cinematic/studio-ghibli-live-action.png" alt="" width="500">
 </p>
 
 ### 韩国犯罪惊悚片
@@ -185,7 +185,7 @@
 
 
 <p align="center">
-  <img src="public/images/cinematic/korean-crime-thriller.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/cinematic/korean-crime-thriller.png" alt="" width="500">
 </p>
 
 ### 法国新浪潮咖啡馆
@@ -194,7 +194,7 @@
 
 
 <p align="center">
-  <img src="public/images/cinematic/french-new-wave-cafe.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/cinematic/french-new-wave-cafe.png" alt="" width="500">
 </p>
 
 ### 爵士酒吧内景
@@ -203,7 +203,7 @@
 
 
 <p align="center">
-  <img src="public/images/cinematic/jazz-bar-interior.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/cinematic/jazz-bar-interior.png" alt="" width="500">
 </p>
 
 ### 可动人偶开箱
@@ -212,7 +212,7 @@
 
 
 <p align="center">
-  <img src="public/images/cinematic/action-figure-unboxing.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/cinematic/action-figure-unboxing.png" alt="" width="500">
 </p>
 ---
 
@@ -224,7 +224,7 @@
 
 
 <p align="center">
-  <img src="public/images/portraits/extreme-close-up-beauty.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/portraits/extreme-close-up-beauty.png" alt="" width="500">
 </p>
 
 ### 奢侈品编辑人像
@@ -233,7 +233,7 @@
 
 
 <p align="center">
-  <img src="public/images/portraits/luxury-editorial-portrait.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/portraits/luxury-editorial-portrait.png" alt="" width="500">
 </p>
 
 ### 环境街头人像
@@ -242,7 +242,7 @@
 
 
 <p align="center">
-  <img src="public/images/portraits/environmental-street-portrait.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/portraits/environmental-street-portrait.png" alt="" width="500">
 </p>
 
 ### 高级时尚 Vogue 封面
@@ -251,7 +251,7 @@
 
 
 <p align="center">
-  <img src="public/images/portraits/high-fashion-vogue-cover.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/portraits/high-fashion-vogue-cover.png" alt="" width="500">
 </p>
 
 ### 柔和自然光人像
@@ -260,7 +260,7 @@
 
 
 <p align="center">
-  <img src="public/images/portraits/soft-natural-light-portrait.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/portraits/soft-natural-light-portrait.png" alt="" width="500">
 </p>
 
 ### 戏剧性黑白人像
@@ -269,7 +269,7 @@
 
 
 <p align="center">
-  <img src="public/images/portraits/dramatic-black-white.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/portraits/dramatic-black-white.png" alt="" width="500">
 </p>
 
 ### 梦幻粉彩美妆
@@ -278,7 +278,7 @@
 
 
 <p align="center">
-  <img src="public/images/portraits/dreamy-pastel-beauty.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/portraits/dreamy-pastel-beauty.png" alt="" width="500">
 </p>
 
 ### 黄金时段人像
@@ -287,7 +287,7 @@
 
 
 <p align="center">
-  <img src="public/images/portraits/golden-hour-portrait.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/portraits/golden-hour-portrait.png" alt="" width="500">
 </p>
 
 ### 暗黑学院风人像
@@ -296,7 +296,7 @@
 
 
 <p align="center">
-  <img src="public/images/portraits/dark-academia-portrait.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/portraits/dark-academia-portrait.png" alt="" width="500">
 </p>
 
 ### 企业头像照
@@ -305,7 +305,7 @@
 
 
 <p align="center">
-  <img src="public/images/portraits/corporate-headshot.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/portraits/corporate-headshot.png" alt="" width="500">
 </p>
 ---
 
@@ -317,7 +317,7 @@
 
 
 <p align="center">
-  <img src="public/images/product/minimalist-electric-kettle.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/product/minimalist-electric-kettle.png" alt="" width="500">
 </p>
 
 ### 咖啡袋包装
@@ -326,7 +326,7 @@
 
 
 <p align="center">
-  <img src="public/images/product/coffee-bag-packaging.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/product/coffee-bag-packaging.png" alt="" width="500">
 </p>
 
 ### 水中香水
@@ -335,7 +335,7 @@
 
 
 <p align="center">
-  <img src="public/images/product/perfume-in-water.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/product/perfume-in-water.png" alt="" width="500">
 </p>
 
 ### 无线耳机微距
@@ -344,7 +344,7 @@
 
 
 <p align="center">
-  <img src="public/images/product/wireless-earbuds-macro.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/product/wireless-earbuds-macro.png" alt="" width="500">
 </p>
 
 ### 护肤品平铺
@@ -353,7 +353,7 @@
 
 
 <p align="center">
-  <img src="public/images/product/skincare-flat-lay.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/product/skincare-flat-lay.png" alt="" width="500">
 </p>
 
 ### 机械键盘
@@ -362,7 +362,7 @@
 
 
 <p align="center">
-  <img src="public/images/product/mechanical-keyboard.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/product/mechanical-keyboard.png" alt="" width="500">
 </p>
 
 ### 手表产品照
@@ -371,7 +371,7 @@
 
 
 <p align="center">
-  <img src="public/images/product/watch-product-shot.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/product/watch-product-shot.png" alt="" width="500">
 </p>
 
 ### 运动鞋英雄照
@@ -380,7 +380,7 @@
 
 
 <p align="center">
-  <img src="public/images/product/sneaker-hero-shot.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/product/sneaker-hero-shot.png" alt="" width="500">
 </p>
 ---
 
@@ -392,7 +392,7 @@
 
 
 <p align="center">
-  <img src="public/images/ui-design/fintech-crypto-wallet.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/ui-design/fintech-crypto-wallet.png" alt="" width="500">
 </p>
 
 ### 旅行社落地页
@@ -401,7 +401,7 @@
 
 
 <p align="center">
-  <img src="public/images/ui-design/travel-agency-landing-page.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/ui-design/travel-agency-landing-page.png" alt="" width="500">
 </p>
 
 ### 智能家居仪表盘
@@ -410,7 +410,7 @@
 
 
 <p align="center">
-  <img src="public/images/ui-design/smart-home-dashboard.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/ui-design/smart-home-dashboard.png" alt="" width="500">
 </p>
 
 ### 电商应用 UI
@@ -419,7 +419,7 @@
 
 
 <p align="center">
-  <img src="public/images/ui-design/e-commerce-app-ui.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/ui-design/e-commerce-app-ui.png" alt="" width="500">
 </p>
 
 ### 健身应用训练界面
@@ -428,7 +428,7 @@
 
 
 <p align="center">
-  <img src="public/images/ui-design/fitness-app-workout-screen.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/ui-design/fitness-app-workout-screen.png" alt="" width="500">
 </p>
 
 ### 餐厅菜单应用
@@ -437,7 +437,7 @@
 
 
 <p align="center">
-  <img src="public/images/ui-design/restaurant-menu-app.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/ui-design/restaurant-menu-app.png" alt="" width="500">
 </p>
 
 ### 播客播放器界面
@@ -446,7 +446,7 @@
 
 
 <p align="center">
-  <img src="public/images/ui-design/podcast-player-interface.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/ui-design/podcast-player-interface.png" alt="" width="500">
 </p>
 
 ### 天气小组件设计
@@ -455,7 +455,7 @@
 
 
 <p align="center">
-  <img src="public/images/ui-design/weather-widget-design.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/ui-design/weather-widget-design.png" alt="" width="500">
 </p>
 ---
 
@@ -467,7 +467,7 @@
 
 
 <p align="center">
-  <img src="public/images/fantasy/ufotable-warrior-princess.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/fantasy/ufotable-warrior-princess.png" alt="" width="500">
 </p>
 
 ### 吉卜力森林精灵
@@ -476,7 +476,7 @@
 
 
 <p align="center">
-  <img src="public/images/fantasy/studio-ghibli-forest-spirit.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/fantasy/studio-ghibli-forest-spirit.png" alt="" width="500">
 </p>
 
 ### 奥术风格角色
@@ -485,7 +485,7 @@
 
 
 <p align="center">
-  <img src="public/images/fantasy/arcane-style-character.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/fantasy/arcane-style-character.png" alt="" width="500">
 </p>
 
 ### 万智牌巨龙
@@ -500,7 +500,7 @@
 
 
 <p align="center">
-  <img src="public/images/fantasy/cyberpunk-samurai.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/fantasy/cyberpunk-samurai.png" alt="" width="500">
 </p>
 
 ### 皮克斯风格角色
@@ -509,7 +509,7 @@
 
 
 <p align="center">
-  <img src="public/images/fantasy/pixar-style-character.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/fantasy/pixar-style-character.png" alt="" width="500">
 </p>
 
 ### 暗黑奇幻女巫
@@ -518,7 +518,7 @@
 
 
 <p align="center">
-  <img src="public/images/fantasy/dark-fantasy-sorceress.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/fantasy/dark-fantasy-sorceress.png" alt="" width="500">
 </p>
 
 ### 空灵美人鱼
@@ -527,7 +527,7 @@
 
 
 <p align="center">
-  <img src="public/images/fantasy/ethereal-mermaid.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/fantasy/ethereal-mermaid.png" alt="" width="500">
 </p>
 
 ### 蒸汽朋克飞艇船长
@@ -536,7 +536,7 @@
 
 
 <p align="center">
-  <img src="public/images/fantasy/steampunk-airship-captain.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/fantasy/steampunk-airship-captain.png" alt="" width="500">
 </p>
 
 ### Q版角色 lineup
@@ -545,7 +545,7 @@
 
 
 <p align="center">
-  <img src="public/images/fantasy/chibi-character-lineup.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/fantasy/chibi-character-lineup.png" alt="" width="500">
 </p>
 ---
 
@@ -557,7 +557,7 @@
 
 
 <p align="center">
-  <img src="public/images/nature/iceland-black-sand-beach.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/nature/iceland-black-sand-beach.png" alt="" width="500">
 </p>
 
 ### 北极光小屋
@@ -566,7 +566,7 @@
 
 
 <p align="center">
-  <img src="public/images/nature/northern-lights-cabin.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/nature/northern-lights-cabin.png" alt="" width="500">
 </p>
 
 ### 加州红杉林
@@ -575,7 +575,7 @@
 
 
 <p align="center">
-  <img src="public/images/nature/california-redwoods.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/nature/california-redwoods.png" alt="" width="500">
 </p>
 
 ### 巴塔哥尼亚镜面湖
@@ -584,7 +584,7 @@
 
 
 <p align="center">
-  <img src="public/images/nature/patagonia-mirror-lake.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/nature/patagonia-mirror-lake.png" alt="" width="500">
 </p>
 
 ### 撒哈拉沙漠风暴
@@ -593,7 +593,7 @@
 
 
 <p align="center">
-  <img src="public/images/nature/sahara-desert-storm.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/nature/sahara-desert-storm.png" alt="" width="500">
 </p>
 
 ### 京都樱花
@@ -602,7 +602,7 @@
 
 
 <p align="center">
-  <img src="public/images/nature/kyoto-cherry-blossoms.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/nature/kyoto-cherry-blossoms.png" alt="" width="500">
 </p>
 
 ### 苏格兰高地风暴
@@ -611,7 +611,7 @@
 
 
 <p align="center">
-  <img src="public/images/nature/scottish-highlands-storm.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/nature/scottish-highlands-storm.png" alt="" width="500">
 </p>
 
 ### 肯尼亚大象家族
@@ -620,7 +620,7 @@
 
 
 <p align="center">
-  <img src="public/images/nature/kenya-elephant-family.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/nature/kenya-elephant-family.png" alt="" width="500">
 </p>
 
 ### 马尔代夫航拍
@@ -629,7 +629,7 @@
 
 
 <p align="center">
-  <img src="public/images/nature/maldives-aerial.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/nature/maldives-aerial.png" alt="" width="500">
 </p>
 
 ### 瀑布悬崖奇幻
@@ -638,7 +638,7 @@
 
 
 <p align="center">
-  <img src="public/images/nature/waterfall-cliff-fantasy.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/nature/waterfall-cliff-fantasy.png" alt="" width="500">
 </p>
 ---
 
@@ -650,7 +650,7 @@
 
 
 <p align="center">
-  <img src="public/images/marketing/viral-launch-card.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/marketing/viral-launch-card.png" alt="" width="500">
 </p>
 
 ### 3D 公告海报
@@ -659,7 +659,7 @@
 
 
 <p align="center">
-  <img src="public/images/marketing/3d-announcement-poster.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/marketing/3d-announcement-poster.png" alt="" width="500">
 </p>
 
 ### YouTube 缩略图
@@ -668,7 +668,7 @@
 
 
 <p align="center">
-  <img src="public/images/marketing/youtube-thumbnail.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/marketing/youtube-thumbnail.png" alt="" width="500">
 </p>
 
 ### Instagram 故事广告
@@ -677,7 +677,7 @@
 
 
 <p align="center">
-  <img src="public/images/marketing/instagram-story-ad.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/marketing/instagram-story-ad.png" alt="" width="500">
 </p>
 
 ### 播客封面艺术
@@ -686,7 +686,7 @@
 
 
 <p align="center">
-  <img src="public/images/marketing/podcast-cover-art.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/marketing/podcast-cover-art.png" alt="" width="500">
 </p>
 
 ### 活动海报
@@ -695,7 +695,7 @@
 
 
 <p align="center">
-  <img src="public/images/marketing/event-poster.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/marketing/event-poster.png" alt="" width="500">
 </p>
 
 ### 领英轮播幻灯片 1
@@ -704,7 +704,7 @@
 
 
 <p align="center">
-  <img src="public/images/marketing/linkedin-carousel-slide-1.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/marketing/linkedin-carousel-slide-1.png" alt="" width="500">
 </p>
 
 ### 电商直播 UI
@@ -713,7 +713,7 @@
 
 
 <p align="center">
-  <img src="public/images/marketing/e-commerce-live-stream-ui.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/marketing/e-commerce-live-stream-ui.png" alt="" width="500">
 </p>
 ---
 
@@ -725,7 +725,7 @@
 
 
 <p align="center">
-  <img src="public/images/typography/vintage-signage.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/typography/vintage-signage.png" alt="" width="500">
 </p>
 
 ### 霓虹招牌字体
@@ -734,7 +734,7 @@
 
 
 <p align="center">
-  <img src="public/images/typography/neon-sign-typography.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/typography/neon-sign-typography.png" alt="" width="500">
 </p>
 
 ### 极简引言海报
@@ -743,7 +743,7 @@
 
 
 <p align="center">
-  <img src="public/images/typography/minimalist-quote-poster.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/typography/minimalist-quote-poster.png" alt="" width="500">
 </p>
 
 ### 涂鸦字体
@@ -752,7 +752,7 @@
 
 
 <p align="center">
-  <img src="public/images/typography/graffiti-typography.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/typography/graffiti-typography.png" alt="" width="500">
 </p>
 
 ### 日式竖排书法
@@ -761,7 +761,7 @@
 
 
 <p align="center">
-  <img src="public/images/typography/japanese-vertical-typography.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/typography/japanese-vertical-typography.png" alt="" width="500">
 </p>
 
 ### 电影片头卡
@@ -770,7 +770,7 @@
 
 
 <p align="center">
-  <img src="public/images/typography/movie-title-card.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/typography/movie-title-card.png" alt="" width="500">
 </p>
 ---
 
@@ -782,7 +782,7 @@
 
 
 <p align="center">
-  <img src="public/images/architecture/modern-living-room.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/architecture/modern-living-room.png" alt="" width="500">
 </p>
 
 ### A 型框架小屋
@@ -791,7 +791,7 @@
 
 
 <p align="center">
-  <img src="public/images/architecture/a-frame-cabin.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/architecture/a-frame-cabin.png" alt="" width="500">
 </p>
 
 ### 奢侈品精品店内景
@@ -800,7 +800,7 @@
 
 
 <p align="center">
-  <img src="public/images/architecture/luxury-boutique-interior.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/architecture/luxury-boutique-interior.png" alt="" width="500">
 </p>
 
 ### 工业阁楼厨房
@@ -809,7 +809,7 @@
 
 
 <p align="center">
-  <img src="public/images/architecture/industrial-loft-kitchen.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/architecture/industrial-loft-kitchen.png" alt="" width="500">
 </p>
 
 ### 日式旅馆室内
@@ -818,7 +818,7 @@
 
 
 <p align="center">
-  <img src="public/images/architecture/japanese-ryokan-interior.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/architecture/japanese-ryokan-interior.png" alt="" width="500">
 </p>
 
 ### 未来博物馆大厅
@@ -827,7 +827,7 @@
 
 
 <p align="center">
-  <img src="public/images/architecture/futuristic-museum-hall.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/architecture/futuristic-museum-hall.png" alt="" width="500">
 </p>
 ---
 
@@ -839,7 +839,7 @@
 
 
 <p align="center">
-  <img src="public/images/experimental/retro-8-bit-landscape.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/experimental/retro-8-bit-landscape.png" alt="" width="500">
 </p>
 
 ### 针织森林世界
@@ -848,7 +848,7 @@
 
 
 <p align="center">
-  <img src="public/images/experimental/knitted-forest-world.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/experimental/knitted-forest-world.png" alt="" width="500">
 </p>
 
 ### 双重曝光人像
@@ -857,7 +857,7 @@
 
 
 <p align="center">
-  <img src="public/images/experimental/double-exposure-portrait.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/experimental/double-exposure-portrait.png" alt="" width="500">
 </p>
 
 ### 铅笔素描跑车
@@ -866,7 +866,7 @@
 
 
 <p align="center">
-  <img src="public/images/experimental/pencil-sketch-sports-car.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/experimental/pencil-sketch-sports-car.png" alt="" width="500">
 </p>
 
 ### 3D 乙烯基玩具机器人
@@ -875,7 +875,7 @@
 
 
 <p align="center">
-  <img src="public/images/experimental/3d-vinyl-toy-robot.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/experimental/3d-vinyl-toy-robot.png" alt="" width="500">
 </p>
 
 ### 超现实鲸鱼云朵
@@ -884,7 +884,7 @@
 
 
 <p align="center">
-  <img src="public/images/experimental/surrealist-whale-clouds.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/experimental/surrealist-whale-clouds.png" alt="" width="500">
 </p>
 ---
 

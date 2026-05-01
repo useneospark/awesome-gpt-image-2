@@ -70,7 +70,7 @@ Seleccionados, probados y organizados para creadores, marketers y diseñadores.<
 
 
 <p align="center">
-  <img src="public/images/featured/featured-cyberpunk-tokyo.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/featured/featured-cyberpunk-tokyo.png" alt="" width="500">
 </p>
 [**Probar este prompt en NeoSpark →**](https://useneospark.com/prompt-lib?prompt=cyberpunk-tokyo&ref=awesome-gpt-image-2)
 
@@ -80,7 +80,7 @@ Seleccionados, probados y organizados para creadores, marketers y diseñadores.<
 
 
 <p align="center">
-  <img src="public/images/featured/featured-linkedin-headshot.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/featured/featured-linkedin-headshot.png" alt="" width="500">
 </p>
 [**Probar este prompt en NeoSpark →**](https://useneospark.com/prompt-lib?prompt=linkedin-headshot&ref=awesome-gpt-image-2)
 
@@ -90,7 +90,7 @@ Seleccionados, probados y organizados para creadores, marketers y diseñadores.<
 
 
 <p align="center">
-  <img src="public/images/featured/featured-isometric-workspace.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/featured/featured-isometric-workspace.png" alt="" width="500">
 </p>
 [**Probar este prompt en NeoSpark →**](https://useneospark.com/prompt-lib?prompt=isometric-workspace&ref=awesome-gpt-image-2)
 
@@ -100,7 +100,7 @@ Seleccionados, probados y organizados para creadores, marketers y diseñadores.<
 
 
 <p align="center">
-  <img src="public/images/featured/featured-iceland-beach.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/featured/featured-iceland-beach.png" alt="" width="500">
 </p>
 [**Probar este prompt en NeoSpark →**](https://useneospark.com/prompt-lib?prompt=iceland-beach&ref=awesome-gpt-image-2)
 
@@ -110,7 +110,7 @@ Seleccionados, probados y organizados para creadores, marketers y diseñadores.<
 
 
 <p align="center">
-  <img src="public/images/featured/featured-rpg-character-sheet.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/featured/featured-rpg-character-sheet.png" alt="" width="500">
 </p>
 [**Probar este prompt en NeoSpark →**](https://useneospark.com/prompt-lib?prompt=rpg-character-sheet&ref=awesome-gpt-image-2)
 
@@ -120,7 +120,7 @@ Seleccionados, probados y organizados para creadores, marketers y diseñadores.<
 
 
 <p align="center">
-  <img src="public/images/featured/featured-vr-exploded-view.png" alt="" width="500">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/featured/featured-vr-exploded-view.png" alt="" width="500">
 </p>
 [**Probar este prompt en NeoSpark →**](https://useneospark.com/prompt-lib?prompt=vr-exploded-view&ref=awesome-gpt-image-2)
 

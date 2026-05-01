@@ -34,16 +34,16 @@ Hand-picked, tested, and organized for creators, marketers, and designers.</p>
 
 | Category | Prompts | Try on NeoSpark |
 |----------|---------|-----------------|
-| [Cinematic & Film](#cinematic--film) | 12 | [Generate](https://useneospark.com/prompt-lib?category=cinematic&ref=awesome-gpt-image-2) |
-| [Portraits & Beauty](#portraits--beauty) | 10 | [Generate](https://useneospark.com/prompt-lib?category=portraits&ref=awesome-gpt-image-2) |
-| [Product Photography](#product-photography) | 8 | [Generate](https://useneospark.com/prompt-lib?category=product&ref=awesome-gpt-image-2) |
-| [UI & App Design](#ui--app-design) | 8 | [Generate](https://useneospark.com/prompt-lib?category=ui-design&ref=awesome-gpt-image-2) |
-| [Fantasy & Anime](#fantasy--anime) | 10 | [Generate](https://useneospark.com/prompt-lib?category=fantasy&ref=awesome-gpt-image-2) |
-| [Nature & Landscapes](#nature--landscapes) | 10 | [Generate](https://useneospark.com/prompt-lib?category=nature&ref=awesome-gpt-image-2) |
-| [Marketing & Social](#marketing--social-media) | 8 | [Generate](https://useneospark.com/prompt-lib?category=marketing&ref=awesome-gpt-image-2) |
-| [Typography & Posters](#typography--posters) | 6 | [Generate](https://useneospark.com/prompt-lib?category=typography&ref=awesome-gpt-image-2) |
-| [Architecture & Interior](#architecture--interior) | 6 | [Generate](https://useneospark.com/prompt-lib?category=architecture&ref=awesome-gpt-image-2) |
-| [Experimental & Fun](#experimental--fun) | 6 | [Generate](https://useneospark.com/prompt-lib?category=experimental&ref=awesome-gpt-image-2) |
+| [Cinematic & Film](#cinematic--film) | 12 | [Generate](https://platform.useneospark.com/) |
+| [Portraits & Beauty](#portraits--beauty) | 10 | [Generate](https://platform.useneospark.com/) |
+| [Product Photography](#product-photography) | 8 | [Generate](https://platform.useneospark.com/) |
+| [UI & App Design](#ui--app-design) | 8 | [Generate](https://platform.useneospark.com/) |
+| [Fantasy & Anime](#fantasy--anime) | 10 | [Generate](https://platform.useneospark.com/) |
+| [Nature & Landscapes](#nature--landscapes) | 10 | [Generate](https://platform.useneospark.com/) |
+| [Marketing & Social](#marketing--social-media) | 8 | [Generate](https://platform.useneospark.com/) |
+| [Typography & Posters](#typography--posters) | 6 | [Generate](https://platform.useneospark.com/) |
+| [Architecture & Interior](#architecture--interior) | 6 | [Generate](https://platform.useneospark.com/) |
+| [Experimental & Fun](#experimental--fun) | 6 | [Generate](https://platform.useneospark.com/) |
 
 **Total: 170+ production-ready prompts** — [Browse the full library on NeoSpark](https://useneospark.com/prompt-lib?ref=awesome-gpt-image-2)
 

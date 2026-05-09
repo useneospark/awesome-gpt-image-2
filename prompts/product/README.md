@@ -36,6 +36,26 @@ A curated collection of GPT Image 2 prompts for product photography and e-commer
 
 > A single pristine white leather sneaker floating at a 45-degree angle against a gradient background from warm peach to soft lavender. Clean studio lighting with a soft reflection below. The sneaker has subtle perforations and a gum sole. Shot on 50mm at f/8. Minimalist, Instagram-worthy product photography.
 
+### Perfume Submerged in Water
+
+> A clear glass perfume bottle filled with light pink liquid. Submerged in clear water with small air bubbles. Dramatic refraction of light. No text. Luxury advertising style.
+
+### Wireless Earbuds Macro Detail
+
+> A pair of sleek silver wireless earbuds inside an open charging case. The case has a small glowing green LED light. Dark metallic background. Macro photography, extreme detail on the metal mesh.
+
+### Museum Archive Stone Earbuds
+
+> Create a museum archive photograph of two perfectly recognizable wireless earbuds carved from worn gray stone and placed on neutral conservation foam under soft overhead museum light. Accession card next to the pieces reads ACC. 2126.04 - EARLY 21C PERSONAL ACOUSTIC IMPLEMENT. Flat even lighting, no dramatic shadow, neutral beige backdrop, shallow depth of field, the material reads as carved stone not plastic. No watermark, no brand logos.
+
+### Action Figure Blister Pack
+
+> A stylized action figure of a retro astronaut sealed inside a premium plastic blister pack, photographed straight-on. The cardboard backing is glossy with a bold header reading "COSMIC EXPLORER" in oversized sans-serif caps and a smaller tagline "ONE SMALL STEP". The figure is posed upright with a helmet and flag accessory slotted into molded compartments next to it. Studio product photography, soft top lighting, clean off-white background, subtle reflection on the floor.
+
+### Strawberry Soft Serve
+
+> Ultra-realistic product photography of a rich strawberry soft-serve ice cream in a crispy waffle cone, styled with a clean, modern premium aesthetic. The soft serve is vibrant natural pink, thick and creamy, sculpted into a smooth swirl with a softly curled peak. The cone has a rustic, crunchy texture with slightly uneven edges for an artisanal feel. The background is soft beige with natural sunlight casting subtle leaf shadows, creating a calm, organic atmosphere. Include softly blurred greenery in the foreground for depth. The composition is minimal, balanced, and uses negative space effectively, similar to high-end American food brand ads. Lighting: soft natural daylight, warm highlights, shallow depth of field, high-end commercial food photography style.
+
 ---
 
 ## Try on NeoSpark

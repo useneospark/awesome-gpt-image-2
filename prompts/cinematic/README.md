@@ -36,6 +36,18 @@ A curated collection of GPT Image 2 prompts for cinematic and film-style image g
 
 > Black and white French New Wave cinematic still. A young woman in a striped Breton shirt and dark bob haircut smokes a Gauloise at a Paris cafe table. She gazes past the camera with an enigmatic expression. Natural window light from camera-right. Godard aesthetic, 1962. 35mm film grain, slightly overexposed highlights. Intellectual, melancholic atmosphere.
 
+### Cinematic Film Stock Template
+
+> A cinematic still from an imaginary sci-fi film, shot on Kodak Vision3 500T 35mm film stock. The frame shows a lone astronaut in a damaged space suit floating inside an abandoned space station corridor during emergency red-alert lighting. Color palette: teal shadows and orange highlights, slight halation around bright areas, organic film grain, anamorphic 2.39:1 widescreen aspect ratio. Camera: 40mm lens at f/2, slight motion blur on the foreground, deep focus on the subject's face. Mood: tense, isolated, inspired by the visual language of Denis Villeneuve.
+
+### Cyberpunk Tokyo Rooftop
+
+> Cinematic wide shot. A lone figure in a black techwear jacket stands on a rain-slicked Tokyo rooftop at midnight. Neon signs in Japanese and English reflect in puddles — pink, cyan, electric blue. Distant holographic advertisements float between skyscrapers. Light rain falling, captured as streaks. Shot on anamorphic lens, 2.39:1 widescreen, film grain, teal shadows and magenta highlights. Blade Runner 2049 aesthetic.
+
+### Train Window Reflection
+
+> Create a reflection self portrait in a night train window showing a young traveler with headphones and a tired expression, while the landscape outside blurs past at speed. Cool overhead train light mixed with warm town lights outside, ghosted double reflection on the glass, condensation at the edge, a thermos and a book on the tray table. Cinematic but believable. No watermark.
+
 ### Jazz Bar Interior
 
 > Moody jazz bar interior. A mysterious woman in a sheer black lace dress sits on a velvet barstool at a mahogany bar. Rembrandt lighting from a single Edison bulb above. Smoke drifts through beams of warm amber light. A saxophone player is silhouetted in the background. Shot on medium format film, 80mm lens at f/2. Deep shadows, rich warm tones. Film noir atmosphere.

@@ -36,6 +36,22 @@ A curated collection of GPT Image 2 prompts for UI/UX design and app interface m
 
 > A beautiful weather widget showing "San Francisco, 72 degrees F, Partly Cloudy." Large sun-behind-cloud icon illustration. Hourly forecast row below with small icons and temps. 7-day forecast list with high/lows. Soft gradient background from light blue to white. Rounded card design, clean sans-serif typography. iOS widget aesthetic.
 
+### Mobile To-Do App DAYBREAK
+
+> Create a clean mobile app screenshot for a minimalist to-do app called DAYBREAK. Top status bar reads 9:41 AM. Title: DAYBREAK. Subtitle: Tuesday, 23 April. Four tasks listed: - Review quarterly notes - Call mom - Ship the image update - Pick up bread. One task is checked off. Muted cream background, deep navy accent color, rounded sans serif, soft card shadows, perfect legibility, generous spacing. No watermark. No real app branding.
+
+### Game Screenshot HUD
+
+> Create a first-person gameplay screenshot of a cozy lakeside stone cottage in a lush block-built survival world at golden hour. Premium game-engine realism, ray-traced global illumination, detailed grass and flowers, soft atmospheric haze, subtle player hand in the lower right, clean survival HUD along the bottom, believable UI spacing. No logos, no watermark, no exact brand references.
+
+### Social Dating App Match Screen
+
+> A social dating app match success screen mockup. Two user profile cards colliding in the center with a glowing heart effect between them. The headline reads "It's a Match!" with a subtitle below. Each card shows a profile photo, name, age, location, and job title. Below the cards, two action buttons: a primary pink "Chat" button and a secondary "Continue" button. Dark purple gradient background with floating pink heart particles and sparkle effects. Clean, modern mobile UI design, 9:16 vertical aspect ratio.
+
+### SaaS Dashboard Laptop Mockup
+
+> A hyper-realistic UI/UX mockup displayed on a slim modern laptop placed on a minimal wooden desk with soft natural daylight. The screen shows a clean SaaS dashboard with elegant typography, glassmorphism cards, smooth gradients, subtle drop shadows, and neatly spaced components. Visible charts, analytics panels, sidebar navigation, and micro-interactions. Realistic macOS-style window frame, soft reflections on the screen, shallow depth of field, cozy workspace atmosphere, shot in photorealistic product photography style, ultra-detailed.
+
 ---
 
 ## Try on NeoSpark

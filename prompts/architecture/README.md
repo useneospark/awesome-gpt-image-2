@@ -28,6 +28,10 @@ A curated collection of GPT Image 2 prompts for architectural visualization and 
 
 > A futuristic museum interior with sweeping curved white walls and dramatic skylights. A massive holographic art installation floats in the center of the grand hall. Reflective polished concrete floor. A few tiny visitors for scale. Zaha Hadid-inspired architecture. Clean, monumental, awe-inspiring.
 
+### Guangzhou Paper-Cut Cityscape
+
+> Paper-cut art inspired by the modern urban landscape of Zhujiang New Town, using intricate cutout techniques on a single sheet to create a three-dimensional depiction of landmark buildings such as Canton Tower and the East-West Twin Towers, along with the bustling cityscape. All buildings and elements are connected by flowing lines and structures with no isolated parts, forming a complete urban tableau. The piece uses metallic foil or glossy paper material with delicate light-and-shadow luster on the surface. 8K ultra-high definition with rich detail, realistic yet deeply artistically expressive.
+
 ---
 
 ## Try on NeoSpark

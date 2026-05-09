@@ -14,10 +14,11 @@ This directory contains additional GPT Image 2 prompts sourced from independent 
 | ui-social-extended.md | gptimage2.github.io, gptimage2ai.com | 13 prompts |
 | product-extended.md | gptimage2.github.io, gptimage2ai.com | 9 prompts |
 | community-creative.md | gptimage2ai.com, promptingguide.ai, learnprompting.org | 12 prompts |
+| web-collection.md | fal.ai, notegpt.io, evolink.ai, apiyi.com | 25 prompts |
 
-**Total additional prompts: 86**
+**Total additional prompts: 111**
 
-Combined with the original 84+ prompts, this repository now contains **170+ production-ready GPT Image 2 prompts**.
+Combined with the original 130+ prompts, this repository now contains **240+ production-ready GPT Image 2 prompts**.
 
 ---
 
@@ -31,6 +32,7 @@ Combined with the original 84+ prompts, this repository now contains **170+ prod
 - [UI & Social Extended](ui-social-extended.md) — App interfaces, social content
 - [Product Extended](product-extended.md) — E-commerce, product shots
 - [Community Creative](community-creative.md) — Viral trends, experimental art
+- [Web Collection](web-collection.md) — Curated prompts from fal.ai, notegpt.io, evolink.ai, apiyi.com
 
 ---
 

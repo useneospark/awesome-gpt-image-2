@@ -36,6 +36,10 @@ A curated collection of GPT Image 2 prompts for nature photography and landscape
 
 > Cinematic wide shot of a family of elephants crossing a golden savanna at sunset in Kenya. Dust kicked up by their feet catches the warm backlight. Baobab trees silhouetted on the horizon. National Geographic style, 200mm telephoto lens compressing the layers. Warm orange and amber tones. Wildlife photography masterpiece.
 
+### Surreal Whale Desert
+
+> A giant humpback whale floating through a sea of fluffy white clouds above a vast golden desert. The whale's back carries a small, lush green forest with a waterfall. Surrealist oil painting style in the tradition of Magritte and Dali. Vibrant colors, dreamlike lighting, impossible scale.
+
 ### Maldives Aerial
 
 > Overhead drone shot of a beautiful woman in a minimal white bikini floating on her back in crystal-clear turquoise shallow water. Her hair spreads out in a halo around her head. White sand bottom visible through the transparent water. Aerial perspective, polarizing filter. Tropical paradise aesthetic.

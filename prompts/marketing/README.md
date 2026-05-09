@@ -36,6 +36,20 @@ A curated collection of GPT Image 2 prompts for marketing materials and social m
 
 > An e-commerce live stream interface mockup similar to TikTok Shop or Instagram Live Shopping. A model wearing a red dress in the center. Product card overlay showing "Vintage Red Dress — $89.99" with "Add to Cart" button. Live viewer count: 12.4K. Comment stream on the right. Engagement buttons at bottom. Modern, trendy, conversion-optimized.
 
+### Browser Game Ad Creative
+
+> Create a 1:1 promotional poster that feels like it was designed by a professional ad designer. Make it suitable for books, courses, events, or browser-game promotion. Use strong visual hierarchy, polished typography, bold but modern composition, clear callout text blocks, and premium campaign-level finishing.
+
+### YouTube Thumbnail Generator
+
+> Based on the video content and this current frame, generate a YouTube thumbnail that fits the video. Reference the style of the provided image but customize the branding elements. Create a high-impact thumbnail with bold text, expressive facial expression or key visual, bright contrasting colors, and clear visual hierarchy optimized for small display sizes.
+
+### Tomato E-Commerce Product Set
+
+> Generate a complete set of e-commerce product introduction images for tomatoes. Include: hero product shot with dramatic lighting, nutritional information infographic, size comparison with common objects, cross-section detail showing freshness, lifestyle/recipe usage scenarios, packaging mockup, farm-to-table story imagery, and customer review highlight cards. Each image should follow e-commerce best practices with clean white or styled backgrounds, professional food photography quality, and compelling visual storytelling.
+
+> An e-commerce live stream interface mockup similar to TikTok Shop or Instagram Live Shopping. A model wearing a red dress in the center. Product card overlay showing "Vintage Red Dress — $89.99" with "Add to Cart" button. Live viewer count: 12.4K. Comment stream on the right. Engagement buttons at bottom. Modern, trendy, conversion-optimized.
+
 ---
 
 ## Try on NeoSpark

@@ -36,6 +36,14 @@ A curated collection of GPT Image 2 prompts for fantasy art, anime, and stylized
 
 > Ethereal underwater fantasy. A graceful mermaid with iridescent teal and violet scales swims through a coral reef. Long flowing hair moves with the current. Bioluminescent jellyfish drift nearby. Rays of sunlight pierce the water surface above. Lisa Frank meets National Geographic. Dreamy, vibrant, magical.
 
+### Lion Camel Ridge Dark Myth
+
+> Chinese weird dark mysterious style blended with Chinese aesthetics, perfect detail, multiple pipeline rendering, perfect modeling. Journey to the West background, Lion Camel Ridge, thousands of demons and monsters, the Elephant King in heavy armor sitting on a giant throne on the left, the Lion King in heavy armor sitting on a giant throne in the center, the Garuda King in heavy armor sitting on a giant throne on the right. A tiny Sun Wukong facing away from the camera, carrying his golden staff walking forward. Low-angle ground-level shot, telephoto lens, strong shadows. Extreme detail rendering.
+
+### Vertical Wuxia Heroine
+
+> 9:16 vertical, ultimate wuxia style, a stunning young Eastern swordswoman, cold and sharp phoenix eyes, porcelain skin, long straight black hair wet and windswept. Wearing a soaked dark black martial arts outfit with a wide-sleeved dark robe, blown dramatically by the wind. A soft sword belt at the waist, long boots, right hand holding an ancient sword emitting a faint blue sword qi glow. Dynamic pose: body slightly turned, looking back over shoulder, robes billowing. Background: moonlit rain-mist-covered bamboo forest path, giant full moon, stone path, ancient lanterns, thin mist and rain. Dramatic cold moonlight combined with blue sword qi, wet-surface water reflections. Cinematic lighting, 8K, masterpiece, ultra realistic.
+
 ### Steampunk Airship Captain
 
 > Illustrated steampunk fantasy portrait. A young female airship captain in a brass-buttoned red military coat with gold epaulets. Goggles rest on her leather aviator cap. A brass mechanical bird perches on her shoulder. Nausicaa/Howl's Moving Castle inspired style. Warm, adventurous, detailed illustration.

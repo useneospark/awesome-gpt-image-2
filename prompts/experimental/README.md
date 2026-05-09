@@ -28,6 +28,22 @@ A curated collection of creative and experimental GPT Image 2 prompts for artist
 
 > A giant humpback whale floating through a sea of fluffy white clouds above a vast golden desert. The whale's back carries a small, lush green forest with a waterfall. Surrealist oil painting style in the tradition of Magritte and Dali. Vibrant colors, dreamlike lighting, impossible scale.
 
+### Historical Remix Astronaut
+
+> A high-quality 1920s black and white silent film still showing an astronaut walking through a vintage New York City street. Film grain, light leaks, authentic antique look.
+
+### Silhouette Universe Narrative Poster
+
+> Generate a high-aesthetic "Contour Universe / Collectible Narrative Poster" based on a theme of your choice. Do not limit the canvas to a fixed object or common container; do not default to bottles, hourglasses, glass domes, or pocket watches. Let the AI choose the most fitting, symbolic, and visually powerful main contour. The core concept is not simply putting a world inside an object, but letting a complete thematic universe naturally grow within, inside, upon, at the boundaries of, or fused with this symbolic contour. Style: collectible movie poster composition, premium narrative visual design, dreamy watercolor texture with print quality, paper grain, edge dry-brush marks.
+
+### 360° Equirectangular Panorama
+
+> A 360° equirectangular panoramic photograph of a historic European town square in golden hour, aspect ratio 2:1. The horizon is perfectly level across the middle of the frame. Foreground: cobblestone street with period-accurate details. Mid-ground: characteristic architecture of the era, people in period clothing. Background: sky matching the time of day, seamless wrap-around at left and right edges. Lighting: natural sunset sun, soft atmospheric haze, historically accurate color palette. No fish-eye distortion at the poles, ready for VR projection.
+
+### Counter-Strike x Terraria Mashup
+
+> Counter-Strike in-game screenshot, mixed with Terraria. Combine the first-person shooter perspective and tactical gameplay elements of Counter-Strike with the 2D pixel art, block-based world, and colorful aesthetic of Terraria. Create a hybrid visual that feels like both games merged into one scene.
+
 ---
 
 ## Try on NeoSpark

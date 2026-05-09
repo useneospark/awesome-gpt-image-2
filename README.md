@@ -8,7 +8,7 @@
 
 <p>
   <a href="https://github.com/sindresorhus/awesome"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
-  <img src="https://img.shields.io/badge/Prompts-170+-blue.svg" alt="170+ Prompts">
+  <img src="https://img.shields.io/badge/Prompts-240+-blue.svg" alt="240+ Prompts">
   <img src="https://img.shields.io/badge/Languages-7-green.svg" alt="7 Languages">
   <img src="https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg" alt="License">
 </p>
@@ -34,20 +34,22 @@ Hand-picked, tested, and organized for creators, marketers, and designers.</p>
 
 | Category | Prompts | Try on NeoSpark |
 |----------|---------|-----------------|
-| [Cinematic & Film](#cinematic--film) | 12 | [Generate](https://platform.useneospark.com/) |
-| [Portraits & Beauty](#portraits--beauty) | 10 | [Generate](https://platform.useneospark.com/) |
-| [Product Photography](#product-photography) | 8 | [Generate](https://platform.useneospark.com/) |
-| [UI & App Design](#ui--app-design) | 8 | [Generate](https://platform.useneospark.com/) |
-| [Fantasy & Anime](#fantasy--anime) | 10 | [Generate](https://platform.useneospark.com/) |
-| [Nature & Landscapes](#nature--landscapes) | 10 | [Generate](https://platform.useneospark.com/) |
-| [Marketing & Social](#marketing--social-media) | 8 | [Generate](https://platform.useneospark.com/) |
-| [Typography & Posters](#typography--posters) | 6 | [Generate](https://platform.useneospark.com/) |
-| [Architecture & Interior](#architecture--interior) | 6 | [Generate](https://platform.useneospark.com/) |
-| [Experimental & Fun](#experimental--fun) | 6 | [Generate](https://platform.useneospark.com/) |
+| [Cinematic & Film](#cinematic--film) | 14 | [Generate](https://platform.useneospark.com/) |
+| [Portraits & Beauty](#portraits--beauty) | 16 | [Generate](https://platform.useneospark.com/) |
+| [Product Photography](#product-photography) | 12 | [Generate](https://platform.useneospark.com/) |
+| [UI & App Design](#ui--app-design) | 11 | [Generate](https://platform.useneospark.com/) |
+| [Fantasy & Anime](#fantasy--anime) | 12 | [Generate](https://platform.useneospark.com/) |
+| [Nature & Landscapes](#nature--landscapes) | 11 | [Generate](https://platform.useneospark.com/) |
+| [Marketing & Social](#marketing--social-media) | 11 | [Generate](https://platform.useneospark.com/) |
+| [Typography & Posters](#typography--posters) | 9 | [Generate](https://platform.useneospark.com/) |
+| [Architecture & Interior](#architecture--interior) | 7 | [Generate](https://platform.useneospark.com/) |
+| [Experimental & Fun](#experimental--fun) | 10 | [Generate](https://platform.useneospark.com/) |
+| [Illustration & Art](#illustration--art) | 8 | [Generate](https://platform.useneospark.com/) |
+| [Photography](#photography) | 6 | [Generate](https://platform.useneospark.com/) |
 
-**Total: 170+ production-ready prompts** — [Browse the full library on NeoSpark](https://useneospark.com/prompt-lib?ref=awesome-gpt-image-2)
+**Total: 240+ production-ready prompts** — [Browse the full library on NeoSpark](https://useneospark.com/prompt-lib?ref=awesome-gpt-image-2)
 
-> Looking for more? Check out the [additional prompts collection](prompts/additional/README.md) with 86 more prompts from independent sources.
+> Looking for more? Check out the [additional prompts collection](prompts/additional/README.md) with 111 more prompts from independent sources.
 
 ---
 
@@ -79,6 +81,8 @@ Hand-picked, tested, and organized for creators, marketers, and designers.</p>
 - [Typography & Posters](#typography--posters)
 - [Architecture & Interior](#architecture--interior)
 - [Experimental & Fun](#experimental--fun)
+- [Illustration & Art](#illustration--art)
+- [Photography](#photography)
 - [Prompt Engineering Tips](#prompt-engineering-tips)
 - [How to Contribute](#how-to-contribute)
 - [License](#license)
@@ -857,6 +861,54 @@ Hand-picked, tested, and organized for creators, marketers, and designers.</p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/experimental/surrealist-whale-clouds.png" alt="Surrealist Whale Clouds" width="500">
 </p>
+---
+
+## Illustration & Art
+
+### Character Design Sheet — Lira
+
+> Create a detailed character design sheet for 'Lira', a young female explorer-mechanic-inventor who travels across frozen lands in search of forgotten technology. Include front, side, and back turnaround views showing her full outfit: olive-green fur-lined parka with hood, golden knit scarf, brown utility belt with brass buckle, cargo pants, and insulated boots. Add a row of six facial expressions. Include an equipment breakdown section, a warm earth-tone color palette strip, three silhouette poses, and a small 'World' thumbnail showing a snowy mountain village. Semi-realistic painterly illustration style with soft lighting and visible brushwork.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/illustration/character-design-lira.jpg" alt="Character Design Sheet Lira" width="500">
+</p>
+
+### Mecha Girl Sea-City Key Visual
+
+> Create a moody key visual of a mecha girl standing on the rusted edge of a tilted steel platform over dark water. She has pale skin, ash-white hair in a high ponytail, matte gunmetal exoskeleton armor, glowing cyan coolant lines, and a massive rail cannon on her shoulder. Behind her, a vast derelict sea-city rises from the ocean in colossal silhouettes, with fog, dead cables, rusted towers, and bruised dusk light. Cinematic concept-art lighting and a medium-wide shot.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/illustration/mecha-girl-sea-city.jpg" alt="Mecha Girl Sea-City" width="500">
+</p>
+
+### Chaos Notes Hidden Face Art
+
+> An artwork where a character face emerges from chaotic handwritten notes, formulas, symbols, and random lines. Style: masses of handwritten ink notes, equations, symbols, and random lines covering white paper, scrawled in a chaotic freehand manner. Some areas highlighted with red ink. Analog notebook doodle texture. The density of black ink lines and text concentrates at the position of the character's face. Colors: monochrome (black and white) as the primary palette with red ink scattered sporadically as accent.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/illustration/chaos-notes-face.jpg" alt="Chaos Notes Hidden Face" width="500">
+</p>
+
+> **See all 8 illustration prompts:** [prompts/illustration/README.md](prompts/illustration/README.md)
+
+---
+
+## Photography
+
+### Documentary Fishmonger
+
+> Create a color documentary photograph of a fishmonger unpacking crates of mackerel onto crushed ice at a small coastal market just after dawn. Steam from breath in the cold air, rubber boots, wet concrete floor, incandescent work lamp spilling warm light, a paper ledger with handwritten prices clipped to a wooden post. Realistic skin texture and fish scales, shallow depth of field, 35mm feel. No commercial styling, no watermark.
+
+### Istanbul Street Documentary
+
+> Scene: A narrow side street in Istanbul just after light rain at blue hour. Subject: A florist locking up for the night. Important details: Wet pavement reflections, metal shutter half closed, green apron, tired posture, a paper bundle of unsold tulips in one hand, mixed cool street light and warm shop light, 50mm documentary feel, slight film grain, realistic skin texture, no posed glamour. Use case: Editorial newspaper feature photo.
+
+### Naturalist Food Specimen
+
+> A food specimen dissected and displayed like a museum naturalist discovery. One half preserves the outer surface with its natural texture and color; the other half is cut to the core, revealing the internal structure in sharp detail. The background is pure black velvet. Annotated labels hug the structural edges in handwritten serif typography. Overall aesthetic: Audubon naturalist illustration meets Caravaggio lighting meets the most beautiful scientific photography ever made. 4K precision, specimen lighting, extreme internal detail.
+
+> **See all 6 photography prompts:** [prompts/photography/README.md](prompts/photography/README.md)
+
 ---
 
 ## Prompt Engineering Tips

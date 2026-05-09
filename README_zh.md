@@ -8,7 +8,7 @@
 
 <p>
   <a href="https://github.com/sindresorhus/awesome"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
-  <img src="https://img.shields.io/badge/提示词-100+-blue.svg" alt="100+ 提示词">
+  <img src="https://img.shields.io/badge/提示词-240+-blue.svg" alt="240+ 提示词">
   <img src="https://img.shields.io/badge/语言-7种-green.svg" alt="7 种语言">
   <img src="https://img.shields.io/badge/协议-CC%20BY%204.0-lightgrey.svg" alt="协议">
 </p>
@@ -34,18 +34,20 @@
 
 | 分类 | 提示词数量 | 在 NeoSpark 试用 |
 |------|-----------|-----------------|
-| [电影与镜头](#电影与镜头) | 12 | [生成](https://platform.useneospark.com/) |
-| [人像与美妆](#人像与美妆) | 10 | [生成](https://platform.useneospark.com/) |
-| [产品摄影](#产品摄影) | 8 | [生成](https://platform.useneospark.com/) |
-| [UI与应用设计](#ui与应用设计) | 8 | [生成](https://platform.useneospark.com/) |
-| [奇幻与动漫](#奇幻与动漫) | 10 | [生成](https://platform.useneospark.com/) |
-| [自然与风景](#自然与风景) | 10 | [生成](https://platform.useneospark.com/) |
-| [营销与社媒](#营销与社媒) | 8 | [生成](https://platform.useneospark.com/) |
-| [排版与海报](#排版与海报) | 6 | [生成](https://platform.useneospark.com/) |
-| [建筑与室内](#建筑与室内) | 6 | [生成](https://platform.useneospark.com/) |
-| [实验与趣味](#实验与趣味) | 6 | [生成](https://platform.useneospark.com/) |
+| [电影与镜头](#电影与镜头) | 14 | [生成](https://platform.useneospark.com/) |
+| [人像与美妆](#人像与美妆) | 16 | [生成](https://platform.useneospark.com/) |
+| [产品摄影](#产品摄影) | 12 | [生成](https://platform.useneospark.com/) |
+| [UI与应用设计](#ui与应用设计) | 11 | [生成](https://platform.useneospark.com/) |
+| [奇幻与动漫](#奇幻与动漫) | 12 | [生成](https://platform.useneospark.com/) |
+| [自然与风景](#自然与风景) | 11 | [生成](https://platform.useneospark.com/) |
+| [营销与社媒](#营销与社媒) | 11 | [生成](https://platform.useneospark.com/) |
+| [排版与海报](#排版与海报) | 9 | [生成](https://platform.useneospark.com/) |
+| [建筑与室内](#建筑与室内) | 7 | [生成](https://platform.useneospark.com/) |
+| [实验与趣味](#实验与趣味) | 10 | [生成](https://platform.useneospark.com/) |
+| [插画与艺术](#插画与艺术) | 8 | [生成](https://platform.useneospark.com/) |
+| [摄影](#摄影) | 6 | [生成](https://platform.useneospark.com/) |
 
-**总计：84+ 生产级提示词** — [在 NeoSpark 浏览完整库](https://useneospark.com/prompt-lib?ref=awesome-gpt-image-2)
+**总计：240+ 生产级提示词** — [在 NeoSpark 浏览完整库](https://useneospark.com/prompt-lib?ref=awesome-gpt-image-2)
 
 ---
 
@@ -77,6 +79,8 @@
 - [排版与海报](#排版与海报)
 - [建筑与室内](#建筑与室内)
 - [实验与趣味](#实验与趣味)
+- [插画与艺术](#插画与艺术)
+- [摄影](#摄影)
 - [提示工程技巧](#提示工程技巧)
 - [如何贡献](#如何贡献)
 - [许可证](#许可证)
@@ -886,6 +890,42 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/experimental/surrealist-whale-clouds.png" alt="" width="500">
 </p>
+---
+
+## 插画与艺术
+
+### 角色设计稿 - Lira
+
+> Create a detailed character design sheet for 'Lira', a young female explorer-mechanic-inventor who travels across frozen lands in search of forgotten technology. Include front, side, and back turnaround views showing her full outfit: olive-green fur-lined parka with hood, golden knit scarf, brown utility belt with brass buckle, cargo pants, and insulated boots. Add a row of six facial expressions. Include an equipment breakdown section, a warm earth-tone color palette strip, and a small 'World' thumbnail showing a snowy mountain village. Semi-realistic painterly illustration style with soft lighting and visible brushwork.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/illustration/character-design-lira.jpg" alt="角色设计稿 Lira" width="500">
+</p>
+
+### 机甲少女海城主视觉
+
+> Create a moody key visual of a mecha girl standing on the rusted edge of a tilted steel platform over dark water. She has pale skin, ash-white hair in a high ponytail, matte gunmetal exoskeleton armor, glowing cyan coolant lines, and a massive rail cannon on her shoulder. Behind her, a vast derelict sea-city rises from the ocean in colossal silhouettes. Cinematic concept-art lighting and a medium-wide shot.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/illustration/mecha-girl-sea-city.jpg" alt="机甲少女海城" width="500">
+</p>
+
+> **查看全部 8 个插画提示词：** [prompts/illustration/README.md](prompts/illustration/README.md)
+
+---
+
+## 摄影
+
+### 纪录片风格鱼贩
+
+> Create a color documentary photograph of a fishmonger unpacking crates of mackerel onto crushed ice at a small coastal market just after dawn. Steam from breath in the cold air, rubber boots, wet concrete floor, incandescent work lamp spilling warm light, a paper ledger with handwritten prices clipped to a wooden post. Realistic skin texture and fish scales, shallow depth of field, 35mm feel. No commercial styling, no watermark.
+
+### 伊斯坦布尔街头纪实
+
+> Scene: A narrow side street in Istanbul just after light rain at blue hour. Subject: A florist locking up for the night. Wet pavement reflections, metal shutter half closed, green apron, tired posture, a paper bundle of unsold tulips in one hand, mixed cool street light and warm shop light, 50mm documentary feel, slight film grain, realistic skin texture, no posed glamour. Use case: Editorial newspaper feature photo.
+
+> **查看全部 6 个摄影提示词：** [prompts/photography/README.md](prompts/photography/README.md)
+
 ---
 
 ## 提示工程技巧

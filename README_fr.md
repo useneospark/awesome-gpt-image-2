@@ -8,7 +8,7 @@
 
 <p>
   <a href="https://github.com/sindresorhus/awesome"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
-  <img src="https://img.shields.io/badge/Prompts-100+-blue.svg" alt="100+ Prompts">
+  <img src="https://img.shields.io/badge/Prompts-240+-blue.svg" alt="240+ Prompts">
   <img src="https://img.shields.io/badge/Langues-7-green.svg" alt="7 Langues">
 </p>
 
@@ -58,6 +58,8 @@ Sélectionnés, testés et organisés pour les créateurs, marketeurs et designe
 - [Typography & Posters](#typography--posters)
 - [Architecture & Interior](#architecture--interior)
 - [Experimental & Fun](#experimental--fun)
+- [Illustration & Art](#illustration--art)
+- [Photography](#photography)
 - [Prompt Engineering Tips](#prompt-engineering-tips)
 - [How to Contribute](#how-to-contribute)
 - [License](#license)
@@ -838,9 +840,33 @@ Sélectionnés, testés et organisés pour les créateurs, marketeurs et designe
 </p>
 ---
 
+## Illustration & Art
 
+### Character Design Sheet - Lira
 
+> Create a detailed character design sheet for 'Lira', a young female explorer-mechanic-inventor who travels across frozen lands in search of forgotten technology. Include front, side, and back turnaround views, six facial expressions, equipment breakdown, color palette strip, and a snowy mountain village thumbnail. Semi-realistic painterly illustration style.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/useneospark/awesome-gpt-image-2/main/public/images/illustration/character-design-lira.jpg" alt="Character Design Sheet Lira" width="500">
+</p>
+
+> **See all 8 illustration prompts:** [prompts/illustration/README.md](prompts/illustration/README.md)
+
+---
+
+## Photography
+
+### Documentary Fishmonger
+
+> Create a color documentary photograph of a fishmonger unpacking crates of mackerel onto crushed ice at a small coastal market just after dawn. Steam from breath in the cold air, rubber boots, wet concrete floor, incandescent work lamp spilling warm light. Realistic skin texture and fish scales, shallow depth of field, 35mm feel. No commercial styling, no watermark.
+
+### Istanbul Street Documentary
+
+> Scene: A narrow side street in Istanbul just after light rain at blue hour. Subject: A florist locking up for the night. Wet pavement reflections, metal shutter half closed, green apron, tired posture, 50mm documentary feel, slight film grain. No watermark, no logos.
+
+> **See all 6 photography prompts:** [prompts/photography/README.md](prompts/photography/README.md)
+
+---
 
 ## Propulsé par NeoSpark
 

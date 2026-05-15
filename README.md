@@ -8,7 +8,7 @@
 
 <p>
   <a href="https://github.com/sindresorhus/awesome"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
-  <img src="https://img.shields.io/badge/Prompts-240+-blue.svg" alt="240+ Prompts">
+  <img src="https://img.shields.io/badge/Prompts-280+-blue.svg" alt="280+ Prompts">
   <img src="https://img.shields.io/badge/Languages-7-green.svg" alt="7 Languages">
   <img src="https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg" alt="License">
 </p>
@@ -47,9 +47,9 @@ Hand-picked, tested, and organized for creators, marketers, and designers.</p>
 | [Illustration & Art](#illustration--art) | 8 | [Generate](https://platform.useneospark.com/) |
 | [Photography](#photography) | 6 | [Generate](https://platform.useneospark.com/) |
 
-**Total: 240+ production-ready prompts** — [Browse the full library on NeoSpark](https://useneospark.com/prompt-lib?ref=awesome-gpt-image-2)
+**Total: 280+ production-ready prompts** — [Browse the full library on NeoSpark](https://useneospark.com/prompt-lib?ref=awesome-gpt-image-2)
 
-> Looking for more? Check out the [additional prompts collection](prompts/additional/README.md) with 111 more prompts from independent sources.
+> Looking for more? Check out the [additional prompts collection](prompts/additional/README.md) with 149 more prompts from independent sources.
 
 ---
 

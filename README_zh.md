@@ -8,7 +8,7 @@
 
 <p>
   <a href="https://github.com/sindresorhus/awesome"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
-  <img src="https://img.shields.io/badge/提示词-240+-blue.svg" alt="240+ 提示词">
+  <img src="https://img.shields.io/badge/提示词-280+-blue.svg" alt="280+ 提示词">
   <img src="https://img.shields.io/badge/语言-7种-green.svg" alt="7 种语言">
   <img src="https://img.shields.io/badge/协议-CC%20BY%204.0-lightgrey.svg" alt="协议">
 </p>
@@ -47,7 +47,7 @@
 | [插画与艺术](#插画与艺术) | 8 | [生成](https://platform.useneospark.com/) |
 | [摄影](#摄影) | 6 | [生成](https://platform.useneospark.com/) |
 
-**总计：240+ 生产级提示词** — [在 NeoSpark 浏览完整库](https://useneospark.com/prompt-lib?ref=awesome-gpt-image-2)
+**总计：280+ 生产级提示词** — [在 NeoSpark 浏览完整库](https://useneospark.com/prompt-lib?ref=awesome-gpt-image-2)
 
 ---
 

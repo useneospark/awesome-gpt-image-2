@@ -8,7 +8,7 @@
 
 <p>
   <a href="https://github.com/sindresorhus/awesome"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
-  <img src="https://img.shields.io/badge/プロンプト-240+-blue.svg" alt="240+ プロンプト">
+  <img src="https://img.shields.io/badge/プロンプト-280+-blue.svg" alt="280+ プロンプト">
   <img src="https://img.shields.io/badge/言語-7種-green.svg" alt="7 言語">
 </p>
 

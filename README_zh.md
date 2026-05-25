@@ -8,7 +8,7 @@
 
 <p>
   <a href="https://github.com/sindresorhus/awesome"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
-  <img src="https://img.shields.io/badge/提示词-280+-blue.svg" alt="280+ 提示词">
+  <img src="https://img.shields.io/badge/提示词-743+-blue.svg" alt="743+ 提示词">
   <img src="https://img.shields.io/badge/语言-7种-green.svg" alt="7 种语言">
   <img src="https://img.shields.io/badge/协议-CC%20BY%204.0-lightgrey.svg" alt="协议">
 </p>
@@ -47,7 +47,9 @@
 | [插画与艺术](#插画与艺术) | 8 | [生成](https://platform.useneospark.com/) |
 | [摄影](#摄影) | 6 | [生成](https://platform.useneospark.com/) |
 
-**总计：280+ 生产级提示词** — [在 NeoSpark 浏览完整库](https://useneospark.com/prompt-lib?ref=awesome-gpt-image-2)
+**总计：743+ 生产级提示词** — 280 个精选 + 463 个网络合集 — [在 NeoSpark 浏览完整库](https://useneospark.com/prompt-lib?ref=awesome-gpt-image-2)
+
+> 想要更多？查看 [网络合集](prompts/web-cases/README.md) ，包含从 [gpt-image2.canghe.ai](https://gpt-image2.canghe.ai/) 获取的 **463 个额外提示词**。
 
 ---
 
@@ -81,6 +83,7 @@
 - [实验与趣味](#实验与趣味)
 - [插画与艺术](#插画与艺术)
 - [摄影](#摄影)
+- [扩展合集](#扩展合集)
 - [提示工程技巧](#提示工程技巧)
 - [如何贡献](#如何贡献)
 - [许可证](#许可证)
@@ -925,6 +928,30 @@
 > Scene: A narrow side street in Istanbul just after light rain at blue hour. Subject: A florist locking up for the night. Wet pavement reflections, metal shutter half closed, green apron, tired posture, a paper bundle of unsold tulips in one hand, mixed cool street light and warm shop light, 50mm documentary feel, slight film grain, realistic skin texture, no posed glamour. Use case: Editorial newspaper feature photo.
 
 > **查看全部 6 个摄影提示词：** [prompts/photography/README.md](prompts/photography/README.md)
+
+---
+
+## 扩展合集
+
+想要更多提示词？浏览 **[网络合集](prompts/web-cases/README.md)** — 按 13 个分类整理的 **463 个额外 GPT Image 2 提示词**：
+
+| 分类 | 提示词数量 |
+|------|-----------|
+| UI & 界面设计 | 73 |
+| 海报与排版 | 73 |
+| 摄影与写实 | 59 |
+| 图表与信息图 | 50 |
+| 插画与艺术 | 47 |
+| 产品与电商 | 35 |
+| 其他用例 | 28 |
+| 品牌与 Logo | 23 |
+| 角色与人物 | 21 |
+| 场景与叙事 | 17 |
+| 历史与古典主题 | 16 |
+| 建筑与空间 | 11 |
+| 文档与出版 | 10 |
+
+所有提示词均包含完整文本、来源标注和示例图片。
 
 ---
 

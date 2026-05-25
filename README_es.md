@@ -8,7 +8,7 @@
 
 <p>
   <a href="https://github.com/sindresorhus/awesome"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
-  <img src="https://img.shields.io/badge/Prompts-280+-blue.svg" alt="280+ Prompts">
+  <img src="https://img.shields.io/badge/Prompts-743+-blue.svg" alt="743+ Prompts">
   <img src="https://img.shields.io/badge/Idiomas-7-green.svg" alt="7 Idiomas">
 </p>
 
@@ -60,6 +60,7 @@ Seleccionados, probados y organizados para creadores, marketers y diseñadores.<
 - [Experimental & Fun](#experimental--fun)
 - [Illustration & Art](#illustration--art)
 - [Photography](#photography)
+- [Extended Collection](#extended-collection)
 - [Prompt Engineering Tips](#prompt-engineering-tips)
 - [How to Contribute](#how-to-contribute)
 - [License](#license)
@@ -867,4 +868,26 @@ Seleccionados, probados y organizados para creadores, marketers y diseñadores.<
 > **See all 6 photography prompts:** [prompts/photography/README.md](prompts/photography/README.md)
 
 ---
+---
 
+## Extended Collection
+
+Looking for even more prompts? Browse the **[Web Collection](prompts/web-cases/README.md)** — **463 additional GPT Image 2 prompts** organized into 13 categories:
+
+| Category | Prompts |
+|----------|---------|
+| UI & Interfaces | 73 |
+| Posters & Typography | 73 |
+| Photography & Realism | 59 |
+| Charts & Infographics | 50 |
+| Illustration & Art | 47 |
+| Products & E-commerce | 35 |
+| Other Use Cases | 28 |
+| Brand & Logos | 23 |
+| Characters & People | 21 |
+| Scenes & Storytelling | 17 |
+| History & Classical Themes | 16 |
+| Architecture & Spaces | 11 |
+| Documents & Publishing | 10 |
+
+All prompts include full text, source attribution, and example images.

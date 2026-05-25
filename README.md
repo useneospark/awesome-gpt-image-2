@@ -8,7 +8,7 @@
 
 <p>
   <a href="https://github.com/sindresorhus/awesome"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
-  <img src="https://img.shields.io/badge/Prompts-280+-blue.svg" alt="280+ Prompts">
+  <img src="https://img.shields.io/badge/Prompts-743+-blue.svg" alt="743+ Prompts">
   <img src="https://img.shields.io/badge/Languages-7-green.svg" alt="7 Languages">
   <img src="https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg" alt="License">
 </p>
@@ -47,7 +47,9 @@ Hand-picked, tested, and organized for creators, marketers, and designers.</p>
 | [Illustration & Art](#illustration--art) | 8 | [Generate](https://platform.useneospark.com/) |
 | [Photography](#photography) | 6 | [Generate](https://platform.useneospark.com/) |
 
-**Total: 280+ production-ready prompts** — [Browse the full library on NeoSpark](https://useneospark.com/prompt-lib?ref=awesome-gpt-image-2)
+**Total: 743+ production-ready prompts** — 280 curated + 463 from web collection — [Browse the full library on NeoSpark](https://useneospark.com/prompt-lib?ref=awesome-gpt-image-2)
+
+> Looking for more? Check out the [Web Collection](prompts/web-cases/README.md) with **463 additional prompts** sourced from [gpt-image2.canghe.ai](https://gpt-image2.canghe.ai/).
 
 > Looking for more? Check out the [additional prompts collection](prompts/additional/README.md) with 149 more prompts from independent sources.
 
@@ -83,6 +85,7 @@ Hand-picked, tested, and organized for creators, marketers, and designers.</p>
 - [Experimental & Fun](#experimental--fun)
 - [Illustration & Art](#illustration--art)
 - [Photography](#photography)
+- [Extended Collection](#extended-collection)
 - [Prompt Engineering Tips](#prompt-engineering-tips)
 - [How to Contribute](#how-to-contribute)
 - [License](#license)
@@ -908,6 +911,30 @@ Hand-picked, tested, and organized for creators, marketers, and designers.</p>
 > A food specimen dissected and displayed like a museum naturalist discovery. One half preserves the outer surface with its natural texture and color; the other half is cut to the core, revealing the internal structure in sharp detail. The background is pure black velvet. Annotated labels hug the structural edges in handwritten serif typography. Overall aesthetic: Audubon naturalist illustration meets Caravaggio lighting meets the most beautiful scientific photography ever made. 4K precision, specimen lighting, extreme internal detail.
 
 > **See all 6 photography prompts:** [prompts/photography/README.md](prompts/photography/README.md)
+
+---
+
+## Extended Collection
+
+Looking for even more prompts? Browse the **[Web Collection](prompts/web-cases/README.md)** — **463 additional GPT Image 2 prompts** organized into 13 categories:
+
+| Category | Prompts |
+|----------|---------|
+| UI & Interfaces | 73 |
+| Posters & Typography | 73 |
+| Photography & Realism | 59 |
+| Charts & Infographics | 50 |
+| Illustration & Art | 47 |
+| Products & E-commerce | 35 |
+| Other Use Cases | 28 |
+| Brand & Logos | 23 |
+| Characters & People | 21 |
+| Scenes & Storytelling | 17 |
+| History & Classical Themes | 16 |
+| Architecture & Spaces | 11 |
+| Documents & Publishing | 10 |
+
+All prompts include full text, source attribution, and example images.
 
 ---
 

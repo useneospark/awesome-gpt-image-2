@@ -8,7 +8,7 @@
 
 <p>
   <a href="https://github.com/sindresorhus/awesome"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
-  <img src="https://img.shields.io/badge/Prompts-743+-blue.svg" alt="743+ Prompts">
+  <img src="https://img.shields.io/badge/Prompts-743+-blue.svg" alt="770+ Prompts">
   <img src="https://img.shields.io/badge/Languages-7-green.svg" alt="7 Languages">
   <img src="https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg" alt="License">
 </p>
@@ -47,9 +47,9 @@ Hand-picked, tested, and organized for creators, marketers, and designers.</p>
 | [Illustration & Art](#illustration--art) | 8 | [Generate](https://platform.useneospark.com/) |
 | [Photography](#photography) | 6 | [Generate](https://platform.useneospark.com/) |
 
-**Total: 743+ production-ready prompts** — 280 curated + 463 from web collection — [Browse the full library on NeoSpark](https://useneospark.com/prompt-lib?ref=awesome-gpt-image-2)
+**Total: 770+ production-ready prompts** — 280 curated + 490 from web collection — [Browse the full library on NeoSpark](https://useneospark.com/prompt-lib?ref=awesome-gpt-image-2)
 
-> Looking for more? Check out the [Web Collection](prompts/web-cases/README.md) with **463 additional prompts** sourced from [gpt-image2.canghe.ai](https://gpt-image2.canghe.ai/).
+> Looking for more? Check out the [Web Collection](prompts/web-cases/README.md) with **490 additional prompts** sourced from [gpt-image2.canghe.ai](https://gpt-image2.canghe.ai/).
 
 > Looking for more? Check out the [additional prompts collection](prompts/additional/README.md) with 149 more prompts from independent sources.
 

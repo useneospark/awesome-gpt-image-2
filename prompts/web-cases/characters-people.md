@@ -1,9 +1,11 @@
 # Characters & People Prompts
 
-A collection of 21 GPT Image 2 prompts for characters & people.
+A collection of 23 GPT Image 2 prompts for characters & people.
 
 | # | Title | Image |
 |---|-------|-------|
+| 473 | ROGUE VIPER 游戏概念设定板 | ![ROGUE VIPER 游戏概念设定板](/public/images/cases/case473.jpg) |
+| 480 | 粉丝速写本角色页 | ![粉丝速写本角色页](/public/images/cases/case480.jpg) |
 | 439 | 赛博黑客角色设定表 | ![赛博黑客角色设定表](/public/images/cases/case439.jpg) |
 | 416 | Earth Signs 角色 Scrapbook | ![Earth Signs 角色 Scrapbook](/public/images/cases/case416.jpg) |
 | 398 | 8 套日常穿搭编辑拼贴 | ![8 套日常穿搭编辑拼贴](/public/images/cases/case398.jpg) |

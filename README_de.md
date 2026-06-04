@@ -8,7 +8,7 @@
 
 <p>
   <a href="https://github.com/sindresorhus/awesome"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
-  <img src="https://img.shields.io/badge/Prompts-743+-blue.svg" alt="743+ Prompts">
+  <img src="https://img.shields.io/badge/Prompts-770+-blue.svg" alt="770+ Prompts">
   <img src="https://img.shields.io/badge/Sprachen-7-green.svg" alt="7 Sprachen">
 </p>
 
@@ -944,7 +944,7 @@ Dieses Repository ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/
 
 ## Extended Collection
 
-Looking for even more prompts? Browse the **[Web Collection](prompts/web-cases/README.md)** — **463 additional GPT Image 2 prompts** organized into 13 categories:
+Looking for even more prompts? Browse the **[Web Collection](prompts/web-cases/README.md)** — **490 additional GPT Image 2 prompts** organized into 13 categories:
 
 | Category | Prompts |
 |----------|---------|

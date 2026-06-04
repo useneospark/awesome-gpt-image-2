@@ -1,9 +1,12 @@
 # Illustration & Art Prompts
 
-A collection of 47 GPT Image 2 prompts for illustration & art.
+A collection of 50 GPT Image 2 prompts for illustration & art.
 
 | # | Title | Image |
 |---|-------|-------|
+| 471 | 花簪和服动漫肖像 | ![花簪和服动漫肖像](/public/images/cases/case471.jpg) |
+| 476 | 早安拿铁微缩女孩 | ![早安拿铁微缩女孩](/public/images/cases/case476.jpg) |
+| 479 | 杂志纸艺拼贴重绘 | ![杂志纸艺拼贴重绘](/public/images/cases/case479.jpg) |
 | 461 | 家庭旅行纸雕拼贴 | ![家庭旅行纸雕拼贴](/public/images/cases/case461.jpg) |
 | 458 | 巴黎秋季时装插画 | ![巴黎秋季时装插画](/public/images/cases/case458.jpg) |
 | 452 | 极简童话手绘儿童插画 | ![极简童话手绘儿童插画](/public/images/cases/case452.jpg) |

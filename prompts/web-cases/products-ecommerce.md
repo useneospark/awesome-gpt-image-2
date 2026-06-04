@@ -1,9 +1,12 @@
 # Products & E-commerce Prompts
 
-A collection of 35 GPT Image 2 prompts for products & e-commerce.
+A collection of 38 GPT Image 2 prompts for products & e-commerce.
 
 | # | Title | Image |
 |---|-------|-------|
+| 470 | 本地生活小店异形展架 | ![本地生活小店异形展架](/public/images/cases/case470.jpg) |
+| 475 | 企鹅造型包装结构板 | ![企鹅造型包装结构板](/public/images/cases/case475.jpg) |
+| 485 | 时尚目录电商拼贴 | ![时尚目录电商拼贴](/public/images/cases/case485.jpg) |
 | 462 | 复古日系迷你橡皮商品包装 | ![复古日系迷你橡皮商品包装](/public/images/cases/case462.jpg) |
 | 455 | 巨型舒适洞洞鞋 Campaign | ![巨型舒适洞洞鞋 Campaign](/public/images/cases/case455.jpg) |
 | 454 | 旅行美食薯片广告海报 | ![旅行美食薯片广告海报](/public/images/cases/case454.jpg) |

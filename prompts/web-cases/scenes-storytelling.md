@@ -1,9 +1,12 @@
 # Scenes & Storytelling Prompts
 
-A collection of 17 GPT Image 2 prompts for scenes & storytelling.
+A collection of 20 GPT Image 2 prompts for scenes & storytelling.
 
 | # | Title | Image |
 |---|-------|-------|
+| 477 | Instagram 餐桌俯拍创意 | ![Instagram 餐桌俯拍创意](/public/images/cases/case477.jpg) |
+| 487 | 法式药妆商业分镜封面 | ![法式药妆商业分镜封面](/public/images/cases/case487.jpg) |
+| 493 | 东京旅行 13 格视频封面 | ![东京旅行 13 格视频封面](/public/images/cases/case493.jpg) |
 | 448 | 1942 空战街机电影城 | ![1942 空战街机电影城](/public/images/cases/case448.jpg) |
 | 422 | 冬季生存惊悚 Storyboard | ![冬季生存惊悚 Storyboard](/public/images/cases/case422.jpg) |
 | 419 | 可颂烘焙流程 Storyboard | ![可颂烘焙流程 Storyboard](/public/images/cases/case419.jpg) |

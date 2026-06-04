@@ -7,20 +7,20 @@ A comprehensive collection of **463 GPT Image 2 prompts** sourced from [gpt-imag
 | Category | Prompts | File |
 |----------|---------|------|
 | UI & Interfaces | 73 | [ui-interfaces.md](ui-interfaces.md) |
-| Posters & Typography | 73 | [posters-typography.md](posters-typography.md) |
-| Photography & Realism | 59 | [photography-realism.md](photography-realism.md) |
-| Charts & Infographics | 50 | [charts-infographics.md](charts-infographics.md) |
-| Illustration & Art | 47 | [illustration-art.md](illustration-art.md) |
-| Products & E-commerce | 35 | [products-ecommerce.md](products-ecommerce.md) |
+| Posters & Typography | 77 | [posters-typography.md](posters-typography.md) |
+| Photography & Realism | 68 | [photography-realism.md](photography-realism.md) |
+| Charts & Infographics | 51 | [charts-infographics.md](charts-infographics.md) |
+| Illustration & Art | 50 | [illustration-art.md](illustration-art.md) |
+| Products & E-commerce | 38 | [products-ecommerce.md](products-ecommerce.md) |
 | Other Use Cases | 28 | [other.md](other.md) |
-| Brand & Logos | 23 | [brand-logos.md](brand-logos.md) |
-| Characters & People | 21 | [characters-people.md](characters-people.md) |
-| Scenes & Storytelling | 17 | [scenes-storytelling.md](scenes-storytelling.md) |
+| Brand & Logos | 24 | [brand-logos.md](brand-logos.md) |
+| Characters & People | 23 | [characters-people.md](characters-people.md) |
+| Scenes & Storytelling | 20 | [scenes-storytelling.md](scenes-storytelling.md) |
 | History & Classical Themes | 16 | [history-classical.md](history-classical.md) |
-| Architecture & Spaces | 11 | [architecture.md](architecture.md) |
+| Architecture & Spaces | 12 | [architecture.md](architecture.md) |
 | Documents & Publishing | 10 | [documents-publishing.md](documents-publishing.md) |
 
-**Total: 463 prompts**
+**Total: 490 prompts**
 
 ## Images
 

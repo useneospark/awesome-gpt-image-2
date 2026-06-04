@@ -1,9 +1,10 @@
 # Charts & Infographics Prompts
 
-A collection of 50 GPT Image 2 prompts for charts & infographics.
+A collection of 51 GPT Image 2 prompts for charts & infographics.
 
 | # | Title | Image |
 |---|-------|-------|
+| 469 | 导览式科普绘本 | ![导览式科普绘本](/public/images/cases/case469.jpg) |
 | 463 | 黑色吊带袜单款图鉴展示 | ![黑色吊带袜单款图鉴展示](/public/images/cases/case463.jpg) |
 | 457 | 运动轨迹舞者光绘海报 | ![运动轨迹舞者光绘海报](/public/images/cases/case457.jpg) |
 | 456 | 历史事件 2x2 可视化地图 | ![历史事件 2x2 可视化地图](/public/images/cases/case456.jpg) |

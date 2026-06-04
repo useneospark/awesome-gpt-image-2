@@ -1,9 +1,18 @@
 # Photography & Realism Prompts
 
-A collection of 59 GPT Image 2 prompts for photography & realism.
+A collection of 68 GPT Image 2 prompts for photography & realism.
 
 | # | Title | Image |
 |---|-------|-------|
+| 467 | 泳装杂志九宫格广告页 | ![泳装杂志九宫格广告页](/public/images/cases/case467.jpg) |
+| 468 | 霓虹涂鸦展会自拍 | ![霓虹涂鸦展会自拍](/public/images/cases/case468.jpg) |
+| 472 | 上海地铁站台晨光 | ![上海地铁站台晨光](/public/images/cases/case472.jpg) |
+| 482 | 自我凝视超现实 Campaign | ![自我凝视超现实 Campaign](/public/images/cases/case482.jpg) |
+| 483 | 都市飞鸟街头肖像 | ![都市飞鸟街头肖像](/public/images/cases/case483.jpg) |
+| 488 | 屋顶球场日落人像 | ![屋顶球场日落人像](/public/images/cases/case488.jpg) |
+| 490 | 双重曝光时尚肖像 | ![双重曝光时尚肖像](/public/images/cases/case490.jpg) |
+| 491 | Y2K 高楼浴室镜面自拍 | ![Y2K 高楼浴室镜面自拍](/public/images/cases/case491.jpg) |
+| 492 | 黑色高定酒店套房写真 | ![黑色高定酒店套房写真](/public/images/cases/case492.jpg) |
 | 466 | 鱼市追猫 CCD 街拍 | ![鱼市追猫 CCD 街拍](/public/images/cases/case466.jpg) |
 | 465 | 逆光美背女性情绪写真 | ![逆光美背女性情绪写真](/public/images/cases/case465.jpg) |
 | 451 | 韩国海滩日落时尚人像 | ![韩国海滩日落时尚人像](/public/images/cases/case451.jpg) |

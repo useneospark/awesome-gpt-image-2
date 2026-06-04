@@ -1,9 +1,10 @@
 # Brand & Logos Prompts
 
-A collection of 23 GPT Image 2 prompts for brand & logos.
+A collection of 24 GPT Image 2 prompts for brand & logos.
 
 | # | Title | Image |
 |---|-------|-------|
+| 478 | 夹层式品牌编辑海报 | ![夹层式品牌编辑海报](/public/images/cases/case478.jpg) |
 | 459 | 品牌奶茶 KV 概念海报 | ![品牌奶茶 KV 概念海报](/public/images/cases/case459.jpg) |
 | 444 | 迪斯科镜面 3D App 图标 | ![迪斯科镜面 3D App 图标](/public/images/cases/case444.jpg) |
 | 386 | 品牌包络产品广告 | ![品牌包络产品广告](/public/images/cases/case386.jpg) |

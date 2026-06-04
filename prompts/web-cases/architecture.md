@@ -1,9 +1,10 @@
 # Architecture & Spaces Prompts
 
-A collection of 11 GPT Image 2 prompts for architecture & spaces.
+A collection of 12 GPT Image 2 prompts for architecture & spaces.
 
 | # | Title | Image |
 |---|-------|-------|
+| 489 | 城市地图微缩旅行海报 | ![城市地图微缩旅行海报](/public/images/cases/case489.jpg) |
 | 411 | 极简建筑地标海报 | ![极简建筑地标海报](/public/images/cases/case411.jpg) |
 | 381 | 90 年代公寓场景参考板 | ![90 年代公寓场景参考板](/public/images/cases/case381.jpg) |
 | 369 | 明洞旅游区域地图 | ![明洞旅游区域地图](/public/images/cases/case369.jpg) |

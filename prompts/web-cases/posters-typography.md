@@ -1,9 +1,13 @@
 # Posters & Typography Prompts
 
-A collection of 73 GPT Image 2 prompts for posters & typography.
+A collection of 77 GPT Image 2 prompts for posters & typography.
 
 | # | Title | Image |
 |---|-------|-------|
+| 474 | 四城极简旅行海报系列 | ![四城极简旅行海报系列](/public/images/cases/case474.jpg) |
+| 481 | 韩系春日 scrapbook 海报 | ![韩系春日 scrapbook 海报](/public/images/cases/case481.jpg) |
+| 484 | 霓虹涂鸦黑白人像 | ![霓虹涂鸦黑白人像](/public/images/cases/case484.jpg) |
+| 486 | RCB 冠军混合媒介海报 | ![RCB 冠军混合媒介海报](/public/images/cases/case486.jpg) |
 | 464 | 高雄水彩拼贴旅行海报 | ![高雄水彩拼贴旅行海报](/public/images/cases/case464.jpg) |
 | 460 | 棋盘低角度奢华男装 Campaign | ![棋盘低角度奢华男装 Campaign](/public/images/cases/case460.jpg) |
 | 432 | 大堡礁复古旅行海报 | ![大堡礁复古旅行海报](/public/images/cases/case432.jpg) |

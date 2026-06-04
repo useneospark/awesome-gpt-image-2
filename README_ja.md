@@ -8,7 +8,7 @@
 
 <p>
   <a href="https://github.com/sindresorhus/awesome"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
-  <img src="https://img.shields.io/badge/プロンプト-743+-blue.svg" alt="743+ プロンプト">
+  <img src="https://img.shields.io/badge/プロンプト-770+-blue.svg" alt="770+ プロンプト">
   <img src="https://img.shields.io/badge/言語-7種-green.svg" alt="7 言語">
 </p>
 
@@ -944,7 +944,7 @@
 
 ## Extended Collection
 
-Looking for even more prompts? Browse the **[Web Collection](prompts/web-cases/README.md)** — **463 additional GPT Image 2 prompts** organized into 13 categories:
+Looking for even more prompts? Browse the **[Web Collection](prompts/web-cases/README.md)** — **490 additional GPT Image 2 prompts** organized into 13 categories:
 
 | Category | Prompts |
 |----------|---------|

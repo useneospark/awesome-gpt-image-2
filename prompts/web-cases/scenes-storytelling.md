@@ -4,9 +4,9 @@ A collection of 20 GPT Image 2 prompts for scenes & storytelling.
 
 | # | Title | Image |
 |---|-------|-------|
-| 477 | Instagram 餐桌俯拍创意 | ![Instagram 餐桌俯拍创意](/public/images/cases/case477.jpg) |
-| 487 | 法式药妆商业分镜封面 | ![法式药妆商业分镜封面](/public/images/cases/case487.jpg) |
 | 493 | 东京旅行 13 格视频封面 | ![东京旅行 13 格视频封面](/public/images/cases/case493.jpg) |
+| 487 | 法式药妆商业分镜封面 | ![法式药妆商业分镜封面](/public/images/cases/case487.jpg) |
+| 477 | Instagram 餐桌俯拍创意 | ![Instagram 餐桌俯拍创意](/public/images/cases/case477.jpg) |
 | 448 | 1942 空战街机电影城 | ![1942 空战街机电影城](/public/images/cases/case448.jpg) |
 | 422 | 冬季生存惊悚 Storyboard | ![冬季生存惊悚 Storyboard](/public/images/cases/case422.jpg) |
 | 419 | 可颂烘焙流程 Storyboard | ![可颂烘焙流程 Storyboard](/public/images/cases/case419.jpg) |
@@ -26,6 +26,75 @@ A collection of 20 GPT Image 2 prompts for scenes & storytelling.
 | 182 | 千禧年日系校园喜剧场景 | ![千禧年日系校园喜剧场景](/public/images/cases/case182.jpg) |
 
 ## Prompts
+
+### 东京旅行 13 格视频封面
+
+**Source:** @AIwithSynthia - [https://x.com/AIwithSynthia/status/2062383568253505904](https://x.com/AIwithSynthia/status/2062383568253505904)
+
+![东京旅行 13 格视频封面](/public/images/cases/case493.jpg)
+
+> Generate image of young female travel vlogger exploring Tokyo across multiple candid moments, extremely beautiful with long dark wavy hair, wearing stylish Japanese-inspired oversized streetwear, expressive and spontaneous personality, captured across a 13-frame grid collage (Row 1: 4 frames | Row 2: 5 frames | Row 3: 4 frames), each frame feels like a real casual phone capture with imperfect framing and natural inconsistencies.
+> 
+> Frame Breakdown
+> 
+> Row 1 - Frame 1 (Tokyo Tower): low angle selfie with Tokyo Tower behind her, slightly tilted horizon, sky overexposed to near white, she's mid-natural smile adjusting into frame, small lens smudge in corner, candid arrival energy.
+> Row 1 - Frame 2 (Shibuya street level): walking through Shibuya crossing at night, handheld motion blur, she glances back at camera mid-step, neon reflections on wet pavement, slightly shaky framing, imperfect crop.
+> Row 1 - Frame 3 (Convenience store): inside a brightly lit convenience store, she is holding onigiri close to camera, playful raised eyebrows, harsh fluorescent lighting flattening the scene, slight overexposure on whites, shelves softly blurred behind.
+> Row 1 - Frame 4 (Yoyogi park): sitting on a bench under trees, looking away from camera, quiet candid moment, soft dappled daylight, slight focus miss on eyes, subtle lens smudge bottom corner.
+> Row 2 - Frame 5 (Takoyaki reaction): close-up while eating single takoyaki, reacting mid-bite with laughter, slight motion blur, warm lantern light behind, face slightly out of focus due to movement.
+> Row 2 - Frame 6 (Vending machine night): standing in front of glowing vending machine, blue and pink light casting uneven tones on her face, pressing button casually, high ISO grain visible.
+> Row 2 - Frame 7 (Train reflection): her face reflected in train window at night, city lights streaking behind, layered reflection effect, slight ghosting on glass, she looks away from camera.
+> Row 2 - Frame 8 (Torii gate): low angle shot of her walking through a torii gate, captured from slightly behind, motion blur in her movement, bright sky causing mild lens flare.
+> Row 2 - Frame 9 (Digital art exhibit): inside immersive light exhibit, colored lights (blue, violet, gold) washing across her face, she looks upward in awe, slight motion blur, low-light noise visible.
+> Row 3 - Frame 10 (Gundam statue): low angle wide shot, she stands small in frame while large statue towers above, slight barrel distortion from phone lens, sky slightly blown out.
+> Row 3 - Frame 11 (Lantern alley): walking through narrow alley lit by warm lanterns, shot from behind, she glances back briefly, underexposed shadows, grainy night detail.
+> Row 3 - Frame 12 (Rooftop skyline): selfie with Tokyo skyline behind, arm extended, wind blowing hair partially across lens, horizon slightly tilted, warm city glow overexposed in distance.
+> Row 3 - Frame 13 (Nara park): crouching down in a park in Nara, she holds out a deer cracker toward a deer, the deer bows its head toward her, she bursts into genuine laughter mid-reaction, surprised and slightly leaning back, another deer nudges her from behind causing her to lose balance slightly, camera captures the moment imperfectly with slight shake and off-center framing, soft natural daylight, open park background with trees and space, unscripted chaotic energy, candid expression.
+> 
+> Young female travel vlogger exploring Tokyo across 13 candid moments in a grid collage, extremely beautiful with long dark wavy hair, wearing stylish Japanese streetwear, expressive and spontaneous, scenes include Tokyo Tower selfie, Shibuya crossing at night, convenience store snack moment, park bench quiet scene, takoyaki reaction, vending machine glow, train window reflection, torii gate walk, immersive light exhibit, Gundam statue low angle, lantern alley walk, rooftop skyline selfie, Harajuku street ending, each frame slightly imperfect with motion blur.
+
+### 法式药妆商业分镜封面
+
+**Source:** @AIwithSynthia - [https://x.com/AIwithSynthia/status/2061300623530942922](https://x.com/AIwithSynthia/status/2061300623530942922)
+
+![法式药妆商业分镜封面](/public/images/cases/case487.jpg)
+
+> 35mm anamorphic, 2.39:1, no flares. Ultra-realistic international French pharmacy skincare commercial for La Roche-Posay Anthelios UVMune 400 Hydrating Cream SPF50+. Soft premium music plus tactile realistic sound effects throughout. Rich warm natural grain, premium but not over-polished. Palette: warm ivory whites, soft stone neutrals, signature La Roche-Posay orange, subtle clinical cyan-blue, sunlit beige, realistic warm skin tones. The tube is iconic. The skin is the proof. Every shot builds toward the moment the product disappears into real skin and protection becomes confidence. Fast cuts, macro intimacy, tactile realism, one quiet transformation that feels earned: sunscreen that looks invisible, breathable, and real.
+> 
+> MODEL / WARDROBE
+> 
+> Use the same female model consistently across all shots, matching the approved character sheet: slim natural model proportions, warm medium skin tone, dark brown hair in a clean low bun, refined oval face, natural brows, realistic under-eye detail, subtle lips, minimal makeup. Same face, same hairstyle, same body structure, same skin tone, same wardrobe continuity throughout.
+> 
+> Wardrobe must be modest, elegant, and fully covered. No exposed body, no tank top, no fitted clothing, no cleavage, no bare shoulders, no body-hugging silhouette. Wardrobe: loose cream linen button-up shirt, full sleeves, fully buttoned or layered over a high-neck white inner top, soft beige trousers only if visible, minimal jewelry, refined French pharmacy skincare styling. Clothing should feel premium, breathable, clean, and international, never sensual, revealing, or fashion-body-focused.
+> 
+> The camera may show hands, face, neck-up portrait, shoulders, waist-up, mirror shots, bathroom ritual shots, and outdoor walking lifestyle shots, but the body must not be emphasized. Keep attention on skin texture, hands applying sunscreen, product packaging, morning ritual, and confident protected face.
+> 
+> SKIN REALISM
+> 
+> Skin must look human and unfiltered: visible pores, peach fuzz, tiny fine lines, slight under-eye texture, natural skin tone variation, realistic facial micro texture, matte-hydrated finish. No glossy skin, no oily shine, no wet-look face, no waxy AI skin, no porcelain smoothing, no glam beauty filter, no fake glow.
+> 
+> PRODUCT REFERENCE
+> 
+> Use the exact La Roche-Posay Anthelios UVMune 400 Hydrating Cream SPF50+ product reference: white tube, orange square logo, black La Roche-Posay typography, orange SPF50+ panel, light blue hydrating cream band, orange lower panel, white pump-cap base. Product shape and color blocking must remain consistent.
+> 
+> MUSIC DIRECTION
+> 
+> Soft elegant premium skincare music throughout: gentle piano, airy ambient pads, subtle low-end warmth, very light modern electronic pulse, calm emotional lift. Music should feel expensive, dermatological, trustworthy, and international. Never loud, never dramatic, never trailer-like, never distracting. The music should support the tactile sound design without overpowering it.
+
+### Instagram 餐桌俯拍创意
+
+**Source:** @iamaiistudio - [https://x.com/iamaiistudio/status/2060210845225980366](https://x.com/iamaiistudio/status/2060210845225980366)
+
+![Instagram 餐桌俯拍创意](/public/images/cases/case477.jpg)
+
+> Top-down ultra-wide hyper-realistic shot of 4 real people seated at a square dining table. Pull the camera way back so a wide ring of empty floor surrounds the whole scene, giving a clean minimal composition. Scene [ATMOSPHERE + WARDROBE]: the four are styled in [OUTFIT STYLE]. Each one is doing something specific: [DESCRIBE EACH PERSON'S ACTION].
+> 
+> The table itself is a physical prop built to look like an Instagram post viewed from above:
+> - A solid white band runs along the TOP and BOTTOM edges only, with no white on the left or right sides.
+> - Top band: a small drawn profile avatar with [LOGO DESCRIPTION], the handle "[USERNAME]", a tiny blue verified check next to it, and a "..." on the far right.
+> - Bottom band: red heart, comment bubble, and share icons painted on the left, bookmark icon on the right.
+> 
+> The center of the table is one flat color: [EXACT COLOR + HEX CODE]. All food, drinks, props, and any hand interacting with them must stay strictly inside that central colored zone, nothing crosses the white bands or the table edge. The floor around the table is [FLOOR COLOR] to create clear visual separation. Professional studio lighting with crisp shadows, 8k, tack-sharp focus.
 
 ### 1942 空战街机电影城
 

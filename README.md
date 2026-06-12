@@ -8,7 +8,7 @@
 
 <p>
   <a href="https://github.com/sindresorhus/awesome"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
-  <img src="https://img.shields.io/badge/Prompts-743+-blue.svg" alt="770+ Prompts">
+  <img src="https://img.shields.io/badge/Prompts-783+-blue.svg" alt="783+ Prompts">
   <img src="https://img.shields.io/badge/Languages-7-green.svg" alt="7 Languages">
   <img src="https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg" alt="License">
 </p>
@@ -47,9 +47,9 @@ Hand-picked, tested, and organized for creators, marketers, and designers.</p>
 | [Illustration & Art](#illustration--art) | 8 | [Generate](https://platform.useneospark.com/) |
 | [Photography](#photography) | 6 | [Generate](https://platform.useneospark.com/) |
 
-**Total: 770+ production-ready prompts** — 280 curated + 490 from web collection — [Browse the full library on NeoSpark](https://useneospark.com/prompt-lib?ref=awesome-gpt-image-2)
+**Total: 783+ production-ready prompts** — 280 curated + 503 from web collection — [Browse the full library on NeoSpark](https://useneospark.com/prompt-lib?ref=awesome-gpt-image-2)
 
-> Looking for more? Check out the [Web Collection](prompts/web-cases/README.md) with **490 additional prompts** sourced from [gpt-image2.canghe.ai](https://gpt-image2.canghe.ai/).
+> Looking for more? Check out the [Web Collection](prompts/web-cases/README.md) with **503 additional prompts** sourced from [gpt-image2.canghe.ai](https://gpt-image2.canghe.ai/).
 
 > Looking for more? Check out the [additional prompts collection](prompts/additional/README.md) with 149 more prompts from independent sources.
 
@@ -916,22 +916,22 @@ Hand-picked, tested, and organized for creators, marketers, and designers.</p>
 
 ## Extended Collection
 
-Looking for even more prompts? Browse the **[Web Collection](prompts/web-cases/README.md)** — **463 additional GPT Image 2 prompts** organized into 13 categories:
+Looking for even more prompts? Browse the **[Web Collection](prompts/web-cases/README.md)** — **503 additional GPT Image 2 prompts** organized into 13 categories:
 
 | Category | Prompts |
 |----------|---------|
 | UI & Interfaces | 73 |
-| Posters & Typography | 73 |
-| Photography & Realism | 59 |
-| Charts & Infographics | 50 |
-| Illustration & Art | 47 |
-| Products & E-commerce | 35 |
+| Posters & Typography | 80 |
+| Photography & Realism | 72 |
+| Charts & Infographics | 52 |
+| Illustration & Art | 53 |
+| Products & E-commerce | 38 |
 | Other Use Cases | 28 |
-| Brand & Logos | 23 |
-| Characters & People | 21 |
-| Scenes & Storytelling | 17 |
+| Brand & Logos | 25 |
+| Characters & People | 24 |
+| Scenes & Storytelling | 20 |
 | History & Classical Themes | 16 |
-| Architecture & Spaces | 11 |
+| Architecture & Spaces | 12 |
 | Documents & Publishing | 10 |
 
 All prompts include full text, source attribution, and example images.

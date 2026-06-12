@@ -1,9 +1,10 @@
 # Brand & Logos Prompts
 
-A collection of 24 GPT Image 2 prompts for brand & logos.
+A collection of 25 GPT Image 2 prompts for brand & logos.
 
 | # | Title | Image |
 |---|-------|-------|
+| 496 | 水雕品牌 Logo 六宫格 | ![水雕品牌 Logo 六宫格](/public/images/cases/case496.jpg) |
 | 478 | 夹层式品牌编辑海报 | ![夹层式品牌编辑海报](/public/images/cases/case478.jpg) |
 | 459 | 品牌奶茶 KV 概念海报 | ![品牌奶茶 KV 概念海报](/public/images/cases/case459.jpg) |
 | 444 | 迪斯科镜面 3D App 图标 | ![迪斯科镜面 3D App 图标](/public/images/cases/case444.jpg) |
@@ -30,6 +31,44 @@ A collection of 24 GPT Image 2 prompts for brand & logos.
 | 130 | 界面交互设计图 | ![界面交互设计图](/public/images/cases/case130.jpg) |
 
 ## Prompts
+
+### 水雕品牌 Logo 六宫格
+
+**Source:** @AIwithSynthia - [https://x.com/AIwithSynthia/status/2062521441141088599](https://x.com/AIwithSynthia/status/2062521441141088599)
+
+![水雕品牌 Logo 六宫格](/public/images/cases/case496.jpg)
+
+> Create a premium 3x2 grid collage of iconic global brand logos recreated entirely from dynamic water formations, floating above a crystal-clear ocean under a vibrant blue sky. Each panel features a different logo sculpted from realistic transparent water, with detailed splashes, droplets, reflections, refractions, and flowing liquid textures. The water forms should look physically accurate, elegant, and instantly recognizable while remaining made completely of water.
+
+### 夹层式品牌编辑海报
+
+**Source:** @iamaiistudio - [https://x.com/iamaiistudio/status/2060000278657839398](https://x.com/iamaiistudio/status/2060000278657839398)
+
+![夹层式品牌编辑海报](/public/images/cases/case478.jpg)
+
+> [BRAND NAME]. You are a world-class editorial designer.
+> 
+> STEP 1, DYNAMIC SUBJECT LOGIC:
+> - Subject pick: independently study [BRAND NAME] and choose the right hero subject.
+> - Sandwich layering: weave the subject through the background shapes. Parts of the car or figure must sit hidden behind geometric blocks, while other parts (wheels, limbs, props) overlap in front of those blocks to fake real 3D depth.
+> 
+> STEP 2, GRID & GEOMETRY:
+> - Layout: a clean 2x2 grid composition.
+> - Overlays: drop large bold geometric arcs and circles on top of the grid.
+> - Visual balance: place one iconic product prop (a floating key fob for cars, a ball for sports, etc.) in its own quadrant to counterweight the subject.
+> 
+> STEP 3, SOPHISTICATED MUTED PALETTE:
+> - No aggressive neon, no oversaturated colors.
+> - Pull [BRAND NAME]'s core colors and shift them into a "sophisticated muted" range. Use desaturated, earthy, dusty versions of the brand colors (dusty rose instead of hot pink, sage green instead of bright mint, slate blue instead of royal blue).
+> - Finish: matte flat color blocks, zero gradients.
+> 
+> STEP 4, PHOTOGRAPHY & LIGHTING:
+> - Subject style: high-end commercial studio photography.
+> - Lighting: soft diffused studio light, gentle highlights, no harsh shadows.
+> - Integration: the subject must feel physically embedded into the graphic grid.
+> 
+> STEP 5, MINIMALIST BRANDING:
+> - Drop a clean single-color [BRAND NAME] logo dead-center on one background block. No tagline, just the iconic symbol.
 
 ### 品牌奶茶 KV 概念海报
 

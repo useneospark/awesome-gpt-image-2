@@ -1,18 +1,22 @@
 # Photography & Realism Prompts
 
-A collection of 68 GPT Image 2 prompts for photography & realism.
+A collection of 72 GPT Image 2 prompts for photography & realism.
 
 | # | Title | Image |
 |---|-------|-------|
-| 467 | 泳装杂志九宫格广告页 | ![泳装杂志九宫格广告页](/public/images/cases/case467.jpg) |
-| 468 | 霓虹涂鸦展会自拍 | ![霓虹涂鸦展会自拍](/public/images/cases/case468.jpg) |
-| 472 | 上海地铁站台晨光 | ![上海地铁站台晨光](/public/images/cases/case472.jpg) |
-| 482 | 自我凝视超现实 Campaign | ![自我凝视超现实 Campaign](/public/images/cases/case482.jpg) |
-| 483 | 都市飞鸟街头肖像 | ![都市飞鸟街头肖像](/public/images/cases/case483.jpg) |
-| 488 | 屋顶球场日落人像 | ![屋顶球场日落人像](/public/images/cases/case488.jpg) |
-| 490 | 双重曝光时尚肖像 | ![双重曝光时尚肖像](/public/images/cases/case490.jpg) |
-| 491 | Y2K 高楼浴室镜面自拍 | ![Y2K 高楼浴室镜面自拍](/public/images/cases/case491.jpg) |
+| 505 | 夜间手机光沙发肖像 | ![夜间手机光沙发肖像](/public/images/cases/case505.jpg) |
+| 501 | 夏日牵手回眸电影肖像 | ![夏日牵手回眸电影肖像](/public/images/cases/case501.jpg) |
+| 500 | 梦幻花冠仙境肖像 | ![梦幻花冠仙境肖像](/public/images/cases/case500.jpg) |
+| 499 | 极简精品店全身时尚写真 | ![极简精品店全身时尚写真](/public/images/cases/case499.jpg) |
 | 492 | 黑色高定酒店套房写真 | ![黑色高定酒店套房写真](/public/images/cases/case492.jpg) |
+| 491 | Y2K 高楼浴室镜面自拍 | ![Y2K 高楼浴室镜面自拍](/public/images/cases/case491.jpg) |
+| 490 | 双重曝光时尚肖像 | ![双重曝光时尚肖像](/public/images/cases/case490.jpg) |
+| 488 | 屋顶球场日落人像 | ![屋顶球场日落人像](/public/images/cases/case488.jpg) |
+| 483 | 都市飞鸟街头肖像 | ![都市飞鸟街头肖像](/public/images/cases/case483.jpg) |
+| 482 | 自我凝视超现实 Campaign | ![自我凝视超现实 Campaign](/public/images/cases/case482.jpg) |
+| 472 | 上海地铁站台晨光 | ![上海地铁站台晨光](/public/images/cases/case472.jpg) |
+| 468 | 霓虹涂鸦展会自拍 | ![霓虹涂鸦展会自拍](/public/images/cases/case468.jpg) |
+| 467 | 泳装杂志九宫格广告页 | ![泳装杂志九宫格广告页](/public/images/cases/case467.jpg) |
 | 466 | 鱼市追猫 CCD 街拍 | ![鱼市追猫 CCD 街拍](/public/images/cases/case466.jpg) |
 | 465 | 逆光美背女性情绪写真 | ![逆光美背女性情绪写真](/public/images/cases/case465.jpg) |
 | 451 | 韩国海滩日落时尚人像 | ![韩国海滩日落时尚人像](/public/images/cases/case451.jpg) |
@@ -74,6 +78,205 @@ A collection of 68 GPT Image 2 prompts for photography & realism.
 | 24 | 漫画分镜叙事设计 | ![漫画分镜叙事设计](/public/images/cases/case24.jpg) |
 
 ## Prompts
+
+### 夜间手机光沙发肖像
+
+**Source:** @iamaiistudio - [https://x.com/iamaiistudio/status/2063231612478017579](https://x.com/iamaiistudio/status/2063231612478017579)
+
+![夜间手机光沙发肖像](/public/images/cases/case505.jpg)
+
+> A young adult woman with soft refined features, thin metal glasses, and shoulder-length dark tousled hair, leaning forward across a dark upholstered couch at night. She wears a pale cream lace-trim camisole with thin straps and matching soft shorts. One hand holds a smartphone close to the foreground, the screen glow casting cool reflections on her fingers and glasses lenses. Her expression is dreamy and softly tired, eyes lifted toward the camera as if she just looked up from scrolling, lips gently closed in a relaxed pout.
+> 
+> Shot in a vertical 3:4 frame at slightly above eye level, medium close-up to three-quarter portrait. Warm dim tungsten room light mixed with cool phone-screen reflections, no flash, soft falloff across the couch and wall. Shallow depth of field, soft low-light grain, slight motion blur, natural imperfect sharpness. Background: plain beige-gray wall, minimal decor, late-night atmosphere. Soft glam makeup: subtle eyeliner, long lashes, smooth skin, glossy pink-nude lips. Realistic social-media night portrait aesthetic.
+
+### 夏日牵手回眸电影肖像
+
+**Source:** @iamaiistudio - [https://x.com/iamaiistudio/status/2063247373388992790](https://x.com/iamaiistudio/status/2063247373388992790)
+
+![夏日牵手回眸电影肖像](/public/images/cases/case501.jpg)
+
+> Cinematic portrait photography, ultra-photorealistic, 2160x3840 vertical composition, 50mm or 85mm portrait lens rendering, shallow depth of field, clean translucent summer natural-light color grading — not overly yellow, not over-filtered.
+> 
+> Subject: a young beautiful adult East Asian woman, [describe face shape and features, e.g. soft heart-shaped face, refined classical features, bright almond/fox eyes, petite nose bridge, naturally full lips], overall vibe sweet, sunny, energetic, cute with a touch of allure. Gaze highly engaging — bright, clear, natural catchlights, as if it speaks; corners of mouth slightly lifted, expression gentle, vivid, natural.
+> 
+> She walks along a [scene, e.g. garden stone path / tree-lined lane / European street / courtyard], right hand reaching back to hold the hand of someone behind her; only their hand appears in the lower-left corner — like a first-person couple's POV snapshot. She glances back at the camera while her body stays in a forward walking motion, posture elegant and natural, clearly a candid captured moment with a faint in-love feeling.
+> 
+> Long [hair color] hair, [style, e.g. naturally wavy / relaxed big waves / airy bangs / half-up], many strands tousled and flying in the wind, richly layered and dynamic. Strong natural side-backlight rims the hair edges — clean, crisp rim light and semi-translucent glow, hair edges lit as if by sunlight, light and luminous. This is the core highlight of the image.
+> 
+> She wears [outfit, e.g. white lace slip dress / beige slip dress / light-blue short-sleeve top with white skirt / light-pink fitted dress], fabric texture natural, material light and soft. Bright natural summer sunlight realistically warms her skin, shoulders, collarbone, and clothing with soft, clean highlight transitions.
+> 
+> Skin texture: extremely realistic — visible fine pores, natural skin texture, faint imperfections, subtle tone variation, soft sheen. Cheeks, nose tip, shoulders show natural delicate gradations in sunlight. Translucent, healthy, real and refined — no plastic look, no waxwork, no over-smoothing.
+> 
+> Background: soft atmospheric blur, never distracting.
+> 
+> Avoid: over-smoothing, plastic skin, CG look, anime look, wig look, stiff expression, dead eyes, stiff poses, overall yellow cast, overexposed face, distorted features, wrong fingers, deformed hands, cluttered background, heavy influencer retouching.
+
+### 梦幻花冠仙境肖像
+
+**Source:** @HaniaAi12 - [https://x.com/HaniaAi12/status/2062696495741391006](https://x.com/HaniaAi12/status/2062696495741391006)
+
+![梦幻花冠仙境肖像](/public/images/cases/case500.jpg)
+
+> Ultra-realistic ethereal fantasy portrait of a breathtaking young woman with delicate porcelain skin, soft grey-blue eyes, and natural rosy lips. She gazes gently toward the viewer with a serene, dreamy expression, her fingertips lightly touching her chin. Wispy ash-brown hair flows softly in the breeze, styled in a loose romantic updo adorned with pastel blush roses, shimmering crystal ornaments, delicate feathers, and intricate floral accessories. She wears elegant dangling crystal earrings and a translucent, flowing gown made of sheer iridescent fabric embroidered with tiny sparkling flowers.
+> 
+> The scene is bathed in soft diffused morning light, creating a luminous glow around her face and shoulders. Surrounded by floating butterflies, sparkling dust particles, translucent petals, and dreamy floral textures, the background blends pastel lavender, pearl white, blush pink, and silver tones. Cinematic fine-art photography, fairycore aesthetic, enchanted garden atmosphere, magical realism, ultra-detailed skin texture, soft focus highlights, volumetric lighting, bokeh, masterpiece quality, highly detailed, 8K resolution, delicate feminine beauty, romantic fantasy artwork, elegant composition, dreamy color grading, soft glow, celestial ambiance.
+
+### 极简精品店全身时尚写真
+
+**Source:** @john_my07 - [https://x.com/john_my07/status/2062579742759649486](https://x.com/john_my07/status/2062579742759649486)
+
+![极简精品店全身时尚写真](/public/images/cases/case499.jpg)
+
+> A full-body editorial fashion photograph of a beautiful young woman with the same appearance as the reference, long glossy dark hair, soft bangs, fair skin, and refined feminine features. She stands casually in an upscale minimalist fashion boutique, wearing an oversized pastel-blue knit sweater paired with a black pleated tennis-style skirt, white crew socks, and chunky designer sneakers. Relaxed confident pose, gentle smile, luxury retail interior with modern clothing racks, neutral-toned garments, warm ambient lighting, wood and stone textures, clean architectural lines, cinematic depth of field, realistic lighting, premium fashion advertising, Vogue-style editorial, ultra-detailed, sharp focus, photorealistic, 4K.
+
+### 黑色高定酒店套房写真
+
+**Source:** @xRahultripathi - [https://x.com/xRahultripathi/status/2062100757923733617](https://x.com/xRahultripathi/status/2062100757923733617)
+
+![黑色高定酒店套房写真](/public/images/cases/case492.jpg)
+
+> Create a hyper-realistic luxury fashion portrait inspired by premium fashion-week editorials.
+> 
+> IMPORTANT:
+> Generate ONLY ONE SINGLE VERTICAL IMAGE.
+> 
+> STYLE:
+> Luxury fashion realism.
+> Professional couture photography.
+> Premium editorial atmosphere.
+> 
+> MAIN CONCEPT:
+> A beautiful adult Asian fashion model photographed inside a luxury hotel suite.
+> 
+> OUTFIT:
+> Elegant black couture mini dress.
+> Luxury embroidered details.
+> Premium designer fashion aesthetic.
+> 
+> BACKGROUND:
+> Luxury hotel interior.
+> Soft neutral decor.
+> Elegant cinematic depth blur.
+> 
+> LIGHTING:
+> Soft luxury window lighting.
+> Professional fashion-editorial reflections.
+> Natural skin texture.
+> 
+> MOOD:
+> Bold.
+> Elegant.
+> High-fashion energy.
+> 
+> QUALITY:
+> Ultra realistic native 4K HDR realism.
+> Professional magazine quality.
+> Vertical 9:16.
+
+### Y2K 高楼浴室镜面自拍
+
+**Source:** @jzaib4269 - [https://x.com/jzaib4269/status/2062184740849930384](https://x.com/jzaib4269/status/2062184740849930384)
+
+![Y2K 高楼浴室镜面自拍](/public/images/cases/case491.jpg)
+
+> A moody late-night mirror selfie captured in a luxury high-rise bathroom overlooking a glowing city skyline. A young woman with long, slightly messy black hair leans forward over a marble sink, partially obscuring one eye with loose strands. The photo is taken through a smudged mirror with visible dust particles, water spots, and imperfections, creating an authentic raw aesthetic. A powerful direct camera flash explodes in the frame, producing harsh highlights, lens flare, and a nostalgic early-2000s digital camera look.
+> 
+> The bathroom counter is cluttered with luxury cosmetics, skincare products, jewelry, a smartphone, and everyday personal items, adding a lived-in editorial feel. Reflections of neon-lit skyscrapers and hotel windows shimmer in the background, emphasizing an urban nightlife atmosphere. Soft pale skin tones contrast against dark clothing and black hair. The composition feels intimate, candid, and effortlessly cool.
+> 
+> Style: Y2K flash photography, candid mirror selfie, Korean editorial aesthetic, indie sleaze, hotel bathroom scene, luxury lifestyle, cinematic nightlife, disposable camera look, grainy texture, flash burn, realistic skin texture, shallow depth of field, authentic imperfections, viral Pinterest mood, high-fashion casual energy, raw unfiltered photography.
+> 
+> Camera: direct flash, compact digital camera, 35mm equivalent, harsh lighting, slight motion blur, visible noise, natural color grading, vertical composition, ultra-realistic, high detail.
+
+### 双重曝光时尚肖像
+
+**Source:** @Anaya_Ai12 - [https://x.com/Anaya_Ai12/status/2062191518975508678](https://x.com/Anaya_Ai12/status/2062191518975508678)
+
+![双重曝光时尚肖像](/public/images/cases/case490.jpg)
+
+> A cinematic double-exposure fashion portrait featuring a woman with the uploaded face used 100% as reference, wearing stylish metallic aviator sunglasses. The composition artfully blends a large, semi-transparent close-up profile of her face on the left with her full-body figure standing confidently on the right. She wears an open, light-grey textured corduroy shirt layered over a dark grey fitted t-shirt and dark denim jeans, posing naturally with her hands in her pockets. She has long, flowing dark hair, flawless skin, elegant feminine features, and a confident, sophisticated expression.
+> 
+> The background is a minimalist neutral studio setting, allowing the double-exposure composition to remain the visual focus. The color grading features a sophisticated warm desaturated sepia and charcoal palette, enhanced by a soft golden-orange light-leak flare in the upper-right corner. Professional 85mm lens photography with high-contrast yet soft cinematic lighting accentuates the fabric textures, facial details, and layered portrait effect.
+> 
+> Ultra-realistic skin texture, luxury fashion-editorial aesthetic, premium magazine-cover quality, subtle film grain, cinematic depth, elegant shadows, refined color grading, modern retro-inspired styling, masterpiece composition, ultra-sharp focus, visually striking storytelling, high-end commercial fashion campaign look.
+
+### 屋顶球场日落人像
+
+**Source:** @HaniaAi12 - [https://x.com/HaniaAi12/status/2061313477696954522](https://x.com/HaniaAi12/status/2061313477696954522)
+
+![屋顶球场日落人像](/public/images/cases/case488.jpg)
+
+> Ultra-realistic, high-quality portrait of a stylish young South Asian woman standing gracefully on a colorful urban rooftop basketball court at sunset. She is standing in a relaxed and elegant posture with her weight naturally shifted to one leg, shoulders relaxed, and one hand gently resting by her side while the other lightly touches the edge of her varsity jacket. Her body is slightly angled toward the camera, creating a confident yet sophisticated appearance. She is looking directly into the camera with a warm, natural smile, projecting confidence, charm, and effortless style.
+
+### 都市飞鸟街头肖像
+
+**Source:** @HaniaAi12 - [https://x.com/HaniaAi12/status/2060216757797978245](https://x.com/HaniaAi12/status/2060216757797978245)
+
+![都市飞鸟街头肖像](/public/images/cases/case483.jpg)
+
+> A stylish cinematic portrait of a confident young woman leaning casually against a textured urban concrete wall, surrounded by vibrant flying birds including blue macaws, white seagulls, and a colorful hummingbird. Black graffiti-style bird silhouettes painted on the wall create an artistic street-art vibe. She is wearing a trendy all-white outfit — oversized denim jacket, fitted graphic tee, skinny jeans, and black sneakers. Soft natural daylight, realistic shadows, ultra-detailed fashion photography, urban luxury aesthetic, sharp facial features, glossy hair, high-end editorial style, dynamic composition, photorealistic, depth of field, 8K quality.
+
+### 自我凝视超现实 Campaign
+
+**Source:** @Shorelyn_ - [https://x.com/Shorelyn_/status/2060207260685791267](https://x.com/Shorelyn_/status/2060207260685791267)
+
+![自我凝视超现实 Campaign](/public/images/cases/case482.jpg)
+
+> Ultra-realistic conceptual portrait of a young man with curly hair and light stubble, wearing yellow-tinted rectangular sunglasses, a beige minimal t-shirt, blue jeans, and off-white sneakers. He is sitting casually with a relaxed posture.
+> 
+> The twist: he is seated on a large, hyper-realistic version of his own detached head placed on the ground. The head is scaled up, lying sideways, with the same facial features and sunglasses, creating a surreal self-reflection concept.
+> 
+> Composition: centered, full-body shot, neutral studio background with soft beige tones, minimal aesthetic. Clean negative space.
+> 
+> Typography integrated into the background:
+> 
+> * Handwritten-style text at the top: “HEAVY”
+> * Below it, smaller text: “ON MY OWN MIND” with “MIND” crossed out
+> * Large, rough, scribbled text in black: “HEAD”
+> 
+> Lighting: soft diffused studio lighting, subtle shadows, high detail, fashion editorial quality.
+> 
+> Style: blend of surrealism and modern streetwear campaign, minimal yet expressive, high-resolution, 8k, sharp focus, natural skin texture.
+> 
+> Mood: introspective, mental weight, identity, self-awareness.
+
+### 上海地铁站台晨光
+
+**Source:** @ToroJushiAi - [https://x.com/ToroJushiAi/status/2059452471127240959](https://x.com/ToroJushiAi/status/2059452471127240959)
+
+![上海地铁站台晨光](/public/images/cases/case472.jpg)
+
+> A candid photograph of a young woman standing on a Shanghai metro platform during the summer morning commute, authentic daily life photography, natural candid moment. Half-body framing, shot at eye level from moderate distance — the arriving train a motion-blurred streak behind her, the yellow safety line at her feet.
+> East Asian young woman in her early 20s. Almond-shaped eyes with natural double eyelids, slightly elongated eye corners — eyes directed downward, absorbed. Straight refined nose with a delicate bridge. Skin tone fair to light beige (NC10–NC20) — skin subsurface scattering visible under cool overhead station light, specular micro-highlights on cheekbones and nose ridge, fine foundation powder grain perceptible. Summer fresh look, no heavy coverage, lightly tinted lip.
+> She wears a relaxed oversized white shirt dress, collar lightly open, sleeves loosely rolled above the elbow. A structured natural tan canvas tote hangs from her shoulder, a physical novel tucked under one arm — pages open at a saved page. She stands with her weight on one hip, gaze downward at the open book, entirely absorbed, occupying her own stillness inside the morning rush. Background: white and grey tiled metro wall, overhead route signage board, arriving train motion blur to one side, other commuters blurred and distant. Two or three stray hairs displaced by the train's air displacement on arrival, natural unplanned imperfection, not geometrically symmetrical.
+> Cool overhead fluorescent lighting with a slight greenish cast, flat frontal illumination offset by a warm spill from the platform entrance behind. Absorbed in focus, eyes downward, unaware — a private moment inside a public space, the Shanghai morning. Subtle ISO 400 film grain in shadow areas, photographic noise texture not CG render smoothness. Aspect ratio 2:3. No watermark, no text overlay, not cartoon, not digitally painted, not illustration, not anime.
+
+### 霓虹涂鸦展会自拍
+
+**Source:** @drmrzhong - [https://x.com/drmrzhong/status/2058774378960257437](https://x.com/drmrzhong/status/2058774378960257437)
+
+![霓虹涂鸦展会自拍](/public/images/cases/case468.jpg)
+
+> 生成一张写实感合照，9:16构图，真实手机摄影质感。
+> 
+> 画面中是一位20岁成年东方女性模特，站在室内展会现场，靠近镜头自然拍照。人物妆造精致，五官清秀，皮肤清透，眼神自然看向镜头，整体气质甜美。
+> 
+> 人物姿态自然端正，身体略微前倾，肩颈柔和舒展，腰部自然收束，整体体态呈现成熟柔美的女性S型曲线。人物体态为成熟丰腴型，肩部圆润柔和，胸部饱满自然，腰线清晰但不过度纤细，臀腿曲线圆润匀称，大腿与手臂带有柔软健康的肉感，整体呈现温柔、甜美、丰腴、优雅的女性美。
+> 
+> 人物服装为“霓虹手绘线条构成的艺术涂鸦”，笔触故意粗糙随意，带明显蜡笔与 marker 手绘质感。画面中的 doodle graphics 形成若隐若现的视觉错觉感，突出身体线条和优美轮廓，让人物看起来像穿着由霓虹线条构成的 cosplay outfit，避免呈现为真实布料服装。整体偏日本互联网自拍文化中的 playful sticker aesthetic，避免直白裸露风格。
+> 
+> 人物发型为精致古风高马尾，搭配白色花朵头饰、水晶发簪、流苏耳饰、额间水晶装饰。妆容清透，带有淡粉色眼影、自然腮红和柔和唇色。
+> 
+> 场景为大型室内展会现场，背景有人群和展台但轻微虚化，顶部有真实展馆灯光。画面采用近景合照构图，人物面部和服装细节清晰，背景虚化自然，有真实手机自拍感。
+> 
+> 整体风格：写实、清透、明亮、梦幻。
+
+### 泳装杂志九宫格广告页
+
+**Source:** @Adam38363368936 - [https://x.com/Adam38363368936/status/2058859338211656051](https://x.com/Adam38363368936/status/2058859338211656051)
+
+![泳装杂志九宫格广告页](/public/images/cases/case467.jpg)
+
+> 泳装时尚杂志广告页面，日本成熟模特，S型曲线。变换姿势和风格，九宫格展示，保持人物面部一致性
 
 ### 鱼市追猫 CCD 街拍
 

@@ -1,12 +1,15 @@
 # Illustration & Art Prompts
 
-A collection of 50 GPT Image 2 prompts for illustration & art.
+A collection of 53 GPT Image 2 prompts for illustration & art.
 
 | # | Title | Image |
 |---|-------|-------|
-| 471 | 花簪和服动漫肖像 | ![花簪和服动漫肖像](/public/images/cases/case471.jpg) |
-| 476 | 早安拿铁微缩女孩 | ![早安拿铁微缩女孩](/public/images/cases/case476.jpg) |
+| 504 | 粗糙涂鸦人像改图 | ![粗糙涂鸦人像改图](/public/images/cases/case504.jpg) |
+| 498 | 铅笔画背景 3D 分身 | ![铅笔画背景 3D 分身](/public/images/cases/case498.jpg) |
+| 495 | 巴黎街头故事书插画 | ![巴黎街头故事书插画](/public/images/cases/case495.jpg) |
 | 479 | 杂志纸艺拼贴重绘 | ![杂志纸艺拼贴重绘](/public/images/cases/case479.jpg) |
+| 476 | 早安拿铁微缩女孩 | ![早安拿铁微缩女孩](/public/images/cases/case476.jpg) |
+| 471 | 花簪和服动漫肖像 | ![花簪和服动漫肖像](/public/images/cases/case471.jpg) |
 | 461 | 家庭旅行纸雕拼贴 | ![家庭旅行纸雕拼贴](/public/images/cases/case461.jpg) |
 | 458 | 巴黎秋季时装插画 | ![巴黎秋季时装插画](/public/images/cases/case458.jpg) |
 | 452 | 极简童话手绘儿童插画 | ![极简童话手绘儿童插画](/public/images/cases/case452.jpg) |
@@ -56,6 +59,58 @@ A collection of 50 GPT Image 2 prompts for illustration & art.
 | 6 | 插画艺术创作图 | ![插画艺术创作图](/public/images/cases/case6.jpg) |
 
 ## Prompts
+
+### 粗糙涂鸦人像改图
+
+**Source:** @Shorelyn_ - [https://x.com/Shorelyn_/status/2063235707632533954](https://x.com/Shorelyn_/status/2063235707632533954)
+
+![粗糙涂鸦人像改图](/public/images/cases/case504.jpg)
+
+> Turn this photo into a chaotic funny doodle illustration, intentionally messy and low-skill, as if drawn quickly with a cheap marker, crayon, or worn-out felt pen on paper.
+> 
+> Create exaggerated facial features with awkward proportions, uneven eyes, oversized head, tiny body, crooked smile, and clumsy anatomy while still keeping the person recognizable. Use rough childish sketch lines, shaky hand-drawn strokes, visible scribbles, overlapping outlines, accidental marks, and random doodles around the scene. Add a simple cartoon-style background with badly drawn buildings, trees, clouds, street elements, and uneven perspective. Coloring should look careless and imperfect, with visible stroke texture, inconsistent fill areas, wax crayon texture, marker bleed, and irregular shading. Include playful imperfections like crossed-out lines, unfinished details, random arrows, tiny notes, stars, swirls, and abstract scribbles. Overall aesthetic should feel humorous, spontaneous, handmade, energetic, goofy, and intentionally unpolished, resembling a child's sketchbook mixed with absurd internet meme art. High texture detail, paper grain visible, asymmetrical composition, awkward framing, expressive doodle chaos, raw sketch energy.
+
+### 铅笔画背景 3D 分身
+
+**Source:** @AIwithkhan - [https://x.com/AIwithkhan/status/2062567518389391540](https://x.com/AIwithkhan/status/2062567518389391540)
+
+![铅笔画背景 3D 分身](/public/images/cases/case498.jpg)
+
+> Create a handrawn pencil illustration of [image] yawning on paper, as background.
+> 
+> Add a 3D Pixar style render of [foto] standing casually infront of the giant handrawn pencil illustration. Soft cinematic lighting. 8K resolution. 3:4 ratio
+
+### 巴黎街头故事书插画
+
+**Source:** @MissDelulu9 - [https://x.com/MissDelulu9/status/2062376738500526347](https://x.com/MissDelulu9/status/2062376738500526347)
+
+![巴黎街头故事书插画](/public/images/cases/case495.jpg)
+
+> Portrait illustration in a storybook style featuring a young adult woman exploring the streets of Paris. She is laughing happily with her eyes closed, holding a coffee cup in her hand. She has long, wavy hair and wears a beret hat. The scene is set near a Parisian café in a peaceful morning atmosphere. The woman has a sweet, charming smile. Soft, dreamy mood, romantic Paris street vibe, gentle lighting, and highly detailed artwork.
+
+### 杂志纸艺拼贴重绘
+
+**Source:** @oggii_0 - [https://x.com/oggii_0/status/2060212097083146644](https://x.com/oggii_0/status/2060212097083146644)
+
+![杂志纸艺拼贴重绘](/public/images/cases/case479.jpg)
+
+> Transform the uploaded image into a minimalist illustration in a magazine collage style, using paper cutouts. Retain the main subject, pose, and overall concept of the original image, but reimagine it as a warm, hand-edited collage. Style: Minimalist illustration in a magazine paper collage style, with flat, layered paper shapes, soft pastel paper textures, torn paper edges, paper shadow effects, neat black doodle accents, a handmade scrapbook atmosphere, modern Korean editorial design, a simple and cute composition, and large areas of clean white space. Character: Cute, simplified Korean characters with minimalist facial features, a small, relaxed smile, soft and rounded proportions, simple and casual clothing, and silhouettes constructed from layered paper cutouts. Composition: A 3:4 aspect ratio, with the main subject positioned slightly lower and off-center, leaving a large, open space on the opposite side for a breezy, minimalist composition that avoids clutter. Objects: Add only a few suitable collage elements: paper sticky notes, small hearts, plants, a cup of coffee, a window, tape fragments, and simple doodle icons. Typography: Add an elegant, handwritten English title that fits the scene's atmosphere. Use short phrases such as: ["May you be like the morning sunshine, full of vitality and hope, embracing the beauty of each day.","Take a small break," or "Good day, good mood."] Atmosphere: Calm, comfortable, warm, sweet, and editorial style. Avoid: Photorealistic style, anime style, watercolor style, 3D clay style, overly detailed backgrounds, excessive collage elements, a luxury poster atmosphere, dark tones, harsh shadows, and sloppy text.
+
+### 早安拿铁微缩女孩
+
+**Source:** @Zyrellix - [https://x.com/Zyrellix/status/2059443447602561444](https://x.com/Zyrellix/status/2059443447602561444)
+
+![早安拿铁微缩女孩](/public/images/cases/case476.jpg)
+
+> Create ultra-fine highly detailed 3D realistic miniature chibi-like cute girl, wearing cream colour top and jeans, resting and floating on creamy latte cup, stylized textured ceramic cup, sleeping expression, satin soft pillow tucked behind her head. The latte cream forms a text "Good Morning" in a cute handwriting. Soft-focus minimalist background, bright natural light, 8K UHD.
+
+### 花簪和服动漫肖像
+
+**Source:** @Mind_Boticni - [https://x.com/Mind_Boticni/status/2059133066694779343](https://x.com/Mind_Boticni/status/2059133066694779343)
+
+![花簪和服动漫肖像](/public/images/cases/case471.jpg)
+
+> Ultra-detailed anime-style portrait of a young girl with large expressive eyes, soft blush cheeks, and delicate facial features. She wears a vibrant floral kimono with intricate colorful patterns. Large blooming flowers are placed in her hair like accessories. Smooth gradient warm background in coral and peach tones. Soft cinematic lighting, dreamy atmosphere, high-end digital illustration
 
 ### 家庭旅行纸雕拼贴
 

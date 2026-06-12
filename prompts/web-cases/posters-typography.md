@@ -1,13 +1,16 @@
 # Posters & Typography Prompts
 
-A collection of 77 GPT Image 2 prompts for posters & typography.
+A collection of 80 GPT Image 2 prompts for posters & typography.
 
 | # | Title | Image |
 |---|-------|-------|
-| 474 | 四城极简旅行海报系列 | ![四城极简旅行海报系列](/public/images/cases/case474.jpg) |
-| 481 | 韩系春日 scrapbook 海报 | ![韩系春日 scrapbook 海报](/public/images/cases/case481.jpg) |
-| 484 | 霓虹涂鸦黑白人像 | ![霓虹涂鸦黑白人像](/public/images/cases/case484.jpg) |
+| 506 | 可爱发卡图文人像海报 | ![可爱发卡图文人像海报](/public/images/cases/case506.jpg) |
+| 503 | 霓虹设计师 3D 海报 | ![霓虹设计师 3D 海报](/public/images/cases/case503.jpg) |
+| 497 | 单色水彩城市旅行海报 | ![单色水彩城市旅行海报](/public/images/cases/case497.jpg) |
 | 486 | RCB 冠军混合媒介海报 | ![RCB 冠军混合媒介海报](/public/images/cases/case486.jpg) |
+| 484 | 霓虹涂鸦黑白人像 | ![霓虹涂鸦黑白人像](/public/images/cases/case484.jpg) |
+| 481 | 韩系春日 scrapbook 海报 | ![韩系春日 scrapbook 海报](/public/images/cases/case481.jpg) |
+| 474 | 四城极简旅行海报系列 | ![四城极简旅行海报系列](/public/images/cases/case474.jpg) |
 | 464 | 高雄水彩拼贴旅行海报 | ![高雄水彩拼贴旅行海报](/public/images/cases/case464.jpg) |
 | 460 | 棋盘低角度奢华男装 Campaign | ![棋盘低角度奢华男装 Campaign](/public/images/cases/case460.jpg) |
 | 432 | 大堡礁复古旅行海报 | ![大堡礁复古旅行海报](/public/images/cases/case432.jpg) |
@@ -83,6 +86,92 @@ A collection of 77 GPT Image 2 prompts for posters & typography.
 | 3 | 足球主题电影海报 | ![足球主题电影海报](/public/images/cases/case3.jpg) |
 
 ## Prompts
+
+### 可爱发卡图文人像海报
+
+**Source:** @xiaoxiaodong01 - [https://x.com/xiaoxiaodong01/status/2062924832917029248](https://x.com/xiaoxiaodong01/status/2062924832917029248)
+
+![可爱发卡图文人像海报](/public/images/cases/case506.jpg)
+
+> 围绕具体主题内容生成一张明亮清爽的图文合成视觉：画面以大面积高明度纯净色场承托主体，背景平整、通风、没有复杂景深，视觉重心由下方被大胆裁切的人像或真实主体建立，只露出最有记忆点的局部，使主体像从画面边缘进入。主体上方叠放一个极简图形符号或拟物角色，它要像轻轻坐在主体头顶或贴合轮廓生长出来，形体圆润、边缘干净、表情或结构由少量粗线完成，兼具标识感和亲近感。文字是画面的主动角色：顶部使用大号手写感标题，字距松、笔画柔软，像一句轻声招呼；中心用更强的竖向或轴向标题建立层级；边缘安放少量小字号信息，保持安静但精确，让空白继续占主导。色彩从主题自身的材质、情绪、地域或品牌语义中提取，映射为明亮底色、洁净主体亮面、清晰深色结构线与少量强调信息色，保留大面积轻快底场、小面积高对比文字线条、自然主体暗部的关系；整体保持高明度、清透、干净、饱和度清晰而不过度刺激，暗色只用于结构和阅读，不制造脏灰、烟雾或陈旧质感。摄影局部与扁平图形之间要形成真实与童趣的反差，边缘叠压准确，阴影极少，完成感像城市公共宣传与角色插画结合的轻松视觉系统。
+> 
+> 主题：柳岩
+> 
+> 比例9:16
+
+### 霓虹设计师 3D 海报
+
+**Source:** @AiwithLariab - [https://x.com/AiwithLariab/status/2063240283786187251](https://x.com/AiwithLariab/status/2063240283786187251)
+
+![霓虹设计师 3D 海报](/public/images/cases/case503.jpg)
+
+> Create an ultra-detailed 3D stylized creative designer poster featuring a cool young digital artist standing confidently in the center of a futuristic blue neon studio. The character wears oversized black streetwear with electric-blue graphic accents, black cargo pants, layered silver chains, black sunglasses, and clean white sneakers. A cute fluffy puppy sits on the artist's shoulder. The camera angle is dramatic low-angle perspective, making the sneakers appear larger for a premium poster effect.
+> 
+> Surround the character with floating creative elements including a glowing laptop, professional camera, design books, notebooks, 3D icons, social media symbols, holographic UI panels, graphic design tools, and futuristic blue geometric shapes. Add motivational typography such as "DESIGN MODE", "CREATE • BUILD • INSPIRE", and "CREATIVE NEVER SLEEPS" integrated into the scene.
+> 
+> Include a collectible chibi mini-figure version of the character standing beside the main subject on a display base. Use cinematic blue lighting, glossy reflections, volumetric glow, depth of field, floating particles, luxury toy-photography aesthetics, high-end 3D rendering, Octane Render quality, ultra-sharp details, vibrant neon blue color palette, futuristic creator workspace atmosphere, premium commercial poster design, trending ArtStation style, masterpiece quality, 8K resolution, vertical 9:16 composition.
+
+### 单色水彩城市旅行海报
+
+**Source:** @Goodmanprotocol - [https://x.com/Goodmanprotocol/status/2062564327140503787](https://x.com/Goodmanprotocol/status/2062564327140503787)
+
+![单色水彩城市旅行海报](/public/images/cases/case497.jpg)
+
+> Minimalist vintage watercolor travel poster illustration of [CITY NAME], [COUNTRY], rendered entirely in elegant monochromatic [COLOR] watercolor and fine ink linework.
+> 
+> Aspect ratio: 4:5 vertical composition optimized for poster and social media presentation.
+> 
+> A peaceful early-morning streetscape featuring the iconic [PRIMARY LANDMARK] and [SECONDARY LANDMARK/LOCATION] in the foreground, viewed from a slightly low pedestrian-level perspective. Historic local architecture, elegant facades, ornate details, arched windows, decorative cornices, and traditional street elements line the spacious surroundings, creating a timeless urban atmosphere. A classic [LOCAL STREET ELEMENT OR LAMP STYLE] stands prominently on the left side, while mature leafy trees frame portions of the scene, their foliage painted with soft watercolor washes and delicate splatter textures. In the distance, [DISTANT LANDMARK OR SKYLINE FEATURE] rises gracefully against the skyline, serving as a recognizable cultural landmark. A vintage [LOCAL VEHICLE] or a few small pedestrians add subtle life and scale without disturbing the tranquil mood.
+> 
+> The composition includes large areas of clean white negative space, soft cloudy watercolor textures in the sky, delicate paper grain, and subtle watercolor blooms. The paving, street, or plaza stretches dramatically across the foreground, leading the viewer’s eye toward the landmark ensemble. Typography in the upper-left corner reads “[CITY NAME], [COUNTRY]” in a refined serif font, styled like a sophisticated travel journal or collectible city poster.
+> 
+> Handcrafted watercolor illustration, architectural sketch aesthetic, serene urban atmosphere, soft natural morning lighting, muted monochromatic palette, highly detailed line art, elegant travel-poster design, minimalist luxury wall-art style, timeless local charm, premium stationery illustration, ultra-detailed, high-resolution, clean composition, Pinterest-worthy, Instagram-worthy, gallery-quality artwork.
+
+### RCB 冠军混合媒介海报
+
+**Source:** @AIwithkhan - [https://x.com/AIwithkhan/status/2061305471492096301](https://x.com/AIwithkhan/status/2061305471492096301)
+
+![RCB 冠军混合媒介海报](/public/images/cases/case486.jpg)
+
+> Ultra-detailed mixed-media sports poster featuring the SAME woman from the reference image, wearing a Royal Challengers Bengaluru (RCB) jersey, holding the IPL trophy beside her. Dynamic fusion of realistic portrait photography, sketch art, watercolor splashes, paint strokes, ink scribbles, and digital painting effects. Explosive red, black, gold, and white color palette. Dramatic championship atmosphere with confetti, fireworks, cheering stadium crowd, RCB flags waving in the background, paint splatter textures, hand-drawn line art accents, and energetic brushwork.
+> 
+> The woman has a confident expression, bold red lipstick, flawless skin, short black bob haircut, cinematic lighting, ultra-sharp blue eyes, premium sports-fashion styling. RCB face paint on cheek, luxury gold jewelry accents, highly detailed jersey fabric.
+> 
+> Large typography on the right side reading:
+> 
+> RCB
+> IPL CHAMPIONS
+> 2026
+> 
+> Handwritten slogan at bottom left:
+> 
+> Ee Sala Cup Namde!
+> 
+> Premium championship poster design, trending Behance artwork, sports magazine cover aesthetic, layered paint textures, realistic trophy reflections, high contrast, ultra-detailed, 8K, masterpiece, award-winning digital art, vibrant colors, cinematic composition, splash art, sketch effect, watercolor effect, paint explosion effect, mixed-media illustration, poster-worthy design.
+
+### 霓虹涂鸦黑白人像
+
+**Source:** @harboriis - [https://x.com/harboriis/status/2060208419811074350](https://x.com/harboriis/status/2060208419811074350)
+
+![霓虹涂鸦黑白人像](/public/images/cases/case484.jpg)
+
+> High-contrast black-and-white urban portrait of a curly-haired bearded man in a black leather jacket, holding two fingers near glowing neon green eyes, with bold graffiti doodles, colorful paint splashes, abstract arrows, crown sketches, and grunge street-art textures on a concrete background, cinematic lighting, edgy graphic poster style.
+
+### 韩系春日 scrapbook 海报
+
+**Source:** @Taaruk_ - [https://x.com/Taaruk_/status/2060214163591614900](https://x.com/Taaruk_/status/2060214163591614900)
+
+![韩系春日 scrapbook 海报](/public/images/cases/case481.jpg)
+
+> Cute Korean spring aesthetic scrapbook poster, dreamy K-fashion portrait, soft blonde girl standing in a blooming flower garden, pastel blue sky background, cream floral blouse layered under a knitted ivory sweater vest, light blue high-waisted jeans, natural smile, glowing fair skin, soft makeup, cherry blossom trees, colorful spring flowers, cozy countryside garden, bright natural sunlight, kawaii doodle overlays, hand-drawn white hearts, smiley faces, stars, sparkles, rainbows, playful handwritten typography, polaroid photo frames, masking tape stickers, scrapbook collage layout, Pinterest aesthetic, Korean magazine editorial, cottagecore fashion, dreamy spring vibes, wholesome mood, soft pastel color palette, clean composition, aesthetic social media poster, ultra detailed, photorealistic, high quality, cute and charming atmosphere, subtle bokeh, lifestyle photography, Instagram reel cover, fashion moodboard, Y2K scrapbook design, white outline around subject, flower-themed decorations, 8k masterpiece
+
+### 四城极简旅行海报系列
+
+**Source:** @Taaruk_ - [https://x.com/Taaruk_/status/2059188921096085888](https://x.com/Taaruk_/status/2059188921096085888)
+
+![四城极简旅行海报系列](/public/images/cases/case474.jpg)
+
+> Minimalist flat travel poster illustration series of iconic destinations around the world, clean vector art style, Scandinavian color palette, soft pastel tones, calm atmospheric scenery, Hallstatt Austria lakeside village with alpine mountains and reflections, Bergen Norway colorful harbor houses with fjord background, Kyoto Japan traditional riverside town with cherry blossoms and pagoda, Santorini Greece white architecture with blue domes overlooking the sea, ultra clean composition, geometric landscape shapes, smooth gradients, elegant typography with destination names, modern tourism poster aesthetic, serene travel mood, crisp vector lines, cinematic wide-angle scenery, peaceful skies with stylized clouds, highly detailed environment art, contemporary flat illustration, premium editorial travel design, balanced composition, minimal shadows, dreamy vacation atmosphere, soft morning lighting, high-end Airbnb poster vibe, Behance trending style, 4k, ultra detailed
 
 ### 高雄水彩拼贴旅行海报
 

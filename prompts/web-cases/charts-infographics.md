@@ -1,9 +1,10 @@
 # Charts & Infographics Prompts
 
-A collection of 51 GPT Image 2 prompts for charts & infographics.
+A collection of 52 GPT Image 2 prompts for charts & infographics.
 
 | # | Title | Image |
 |---|-------|-------|
+| 494 | 电动巴士工程信息图 | ![电动巴士工程信息图](/public/images/cases/case494.jpg) |
 | 469 | 导览式科普绘本 | ![导览式科普绘本](/public/images/cases/case469.jpg) |
 | 463 | 黑色吊带袜单款图鉴展示 | ![黑色吊带袜单款图鉴展示](/public/images/cases/case463.jpg) |
 | 457 | 运动轨迹舞者光绘海报 | ![运动轨迹舞者光绘海报](/public/images/cases/case457.jpg) |
@@ -57,6 +58,189 @@ A collection of 51 GPT Image 2 prompts for charts & infographics.
 | 8 | 科普百科图 | ![科普百科图](/public/images/cases/case8.jpg) |
 
 ## Prompts
+
+### 电动巴士工程信息图
+
+**Source:** @j_smeaton99 - [https://x.com/j_smeaton99/status/2062365258984177766](https://x.com/j_smeaton99/status/2062365258984177766)
+
+![电动巴士工程信息图](/public/images/cases/case494.jpg)
+
+> Create a premium square “reference-style sustainable transportation infographic” centered around a futuristic electric city bus called the {E_BUS_NAME}, designed as a beautifully curated urban-mobility handbook page rather than a commercial vehicle advertisement.
+> 
+> The composition should feel like a modern visual encyclopedia mixed with an elite public-transit engineering guide and high-end editorial infographic system.
+> 
+> Visual Direction
+> 
+> • 1:1 square composition
+> • Premium smart-city background with subtle transportation blueprints, circuit-inspired overlays, and urban infrastructure schematics
+> • Elegant palette using deep navy, graphite black, electric green, steel gray, and soft cyan accents
+> • Refined editorial typography hierarchy
+> • Rounded modular information cards with clean spacing
+> • Gentle realistic reflections and premium transit-system dividers
+> • Minimal transportation engineering iconography
+> • Extremely detailed central electric bus render viewed in dramatic three-quarter perspective driving through a futuristic smart-city boulevard
+> • Thin precision annotation lines pointing toward key systems and technologies
+> • Clean, organized “knowledge-first” layout with high information density but breathable spacing
+> 
+> Main Subject Presentation
+> 
+> A stunning ultra-detailed realistic render of the {E_BUS_NAME} placed at the center, featuring:
+> 
+> • sleek aerodynamic body design
+> • panoramic windshield
+> • illuminated destination display
+> • low-floor accessibility layout
+> • futuristic LED lighting systems
+> • premium electric drivetrain details
+> • realistic urban reflections
+> • smart-city transportation realism
+> 
+> Surround the bus with engineering callouts explaining:
+> 
+> • battery pack technology
+> • electric motor system
+> • regenerative braking system
+> • charging infrastructure compatibility
+> • smart fleet management systems
+> • passenger accessibility features
+> • thermal battery management
+> • energy-efficiency technologies
+> • safety monitoring systems
+> • intelligent driver assistance features
+> 
+> Include Modular Sections
+> 
+> • E-Bus Overview
+> • Technical Specifications
+> • Vehicle Dimensions & Capacity
+> • Powertrain & Energy System
+> • Battery Technology Breakdown
+> • Charging Solutions
+> • Passenger Comfort Features
+> • Safety & Reliability Systems
+> • Fleet Management Technology
+> • Environmental Impact Analysis
+> • Operating Cost Comparison
+> • Construction & Material Engineering
+> • Sustainability Lifecycle Assessment
+> • Smart-City Integration
+> • Global Adoption Trends
+> • “Did You Know?” Facts Section
+> • Future of Electric Public Transport
+> 
+> Add Premium Visualization Modules
+> 
+> • battery architecture diagrams
+> • charging workflow graphics
+> • energy-consumption charts
+> • passenger-capacity visualizations
+> • smart-city integration maps
+> • drivetrain cutaway illustrations
+> • environmental impact comparisons
+> • fleet-management dashboards
+> • vehicle blueprint dimensions
+> • lifecycle sustainability graphics
+> 
+> Style Keywords
+> 
+> “premium transportation encyclopedia”
+> “editorial electric mobility handbook”
+> “high-end public transit infographic”
+> “scientific transportation poster”
+> “museum-quality electric bus reference page”
+> “modular smart-city knowledge system”
+> “clean engineering editorial design”
+> “ultra-detailed mobility visualization”
+> “future transportation showcase”
+> “sustainable urban mobility design”
+> 
+> Avoid
+> 
+> • generic vehicle advertisements
+> • cluttered commercial brochure layouts
+> • cartoon transportation styling
+> • unrealistic flying-bus concepts
+> • excessive cyberpunk neon overload
+> • low-detail stock-vehicle renders
+> 
+> Final Goal
+> 
+> The final result should resemble a professionally published transportation-engineering reference-book page created for urban planners, transportation engineers, sustainability researchers, architects, public-transit authorities, and smart-city enthusiasts, combining technical accuracy, sustainability insights, and premium editorial design.
+
+### 导览式科普绘本
+
+**Source:** @MrLarus - [https://x.com/MrLarus/status/2058773446167773521](https://x.com/MrLarus/status/2058773446167773521)
+
+![导览式科普绘本](/public/images/cases/case469.jpg)
+
+> 《导览式科普绘本》提示词：
+> 
+> 请根据【主题】创作一张高完成度的「导览式科普绘本」风格插画。
+> 
+> 这是一张结合“大型场景主视觉 + 导览路线 + 可爱导览 IP + 知识站点 + 儿童科普绘本质感”的场景导览式科普图解页。画面需要让观者像被带着参观一个复杂系统一样，边看边理解主题背后的运行逻辑、空间结构、流程关系和关键知识点。
+> 
+> 【基础设定】
+> 主题：【填写主题，例如发射场的一天 / 一个集装箱的旅行 / 地铁站里的秘密路线 / 下潜到深海的一小时 / 机场如何运转 / 医院急诊系统 / 智慧农场 / 消防站出警流程】
+> 画幅比例：【4:3 横版】
+> 主色调：【根据主题自动匹配，整体保持明亮、清爽、儿童友好】
+> 风格方向：【现代儿童科普绘本 / 场景导览式图解 / 高完成度数字插画】
+> 
+> 【核心表达】
+> 请围绕【主题】设计一个完整的大型场景或复杂系统。画面中必须有一个明确的主视觉场景，例如大型设施、交通系统、科技装备、自然探索场景、城市公共系统或生产流程。主体要足够清晰、有规模感、有细节，能够成为第一眼的视觉中心。
+> 
+> 画面要通过“导览路线”的方式组织信息，避免仅把场景做成静态陈列。请设计一条清晰的参观路线、流程路线、时间线或空间动线，让读者可以沿着路线一步步理解这个系统是如何运行的。
+> 
+> 【导览 IP 设计】
+> 请为本图设计一个原创、可爱、亲和的导览小 IP。导览 IP 可以是小动物、小朋友、拟人化工具或其他适合主题的原创形象，但必须具有独立原创性，不要照搬任何参考图中的角色、动物形象、服装、配色或搭档关系。
+> 
+> 导览 IP 的作用是：
+> 1. 开场介绍主题
+> 2. 指向关键知识点
+> 3. 引导读者顺着路线阅读
+> 4. 增加儿童绘本的陪伴感和趣味性
+> 
+> 导览 IP 可以在画面中出现 2-3 次，但不要过度抢主视觉。角色应圆润、可爱、有表情、有动作，适合儿童科普绘本。
+> 
+> 【信息结构】
+> 画面中请设置 3-6 个“知识站点”，每个站点用简短中文标签和短说明表达。站点命名可以采用：
+> - 第1站｜xxx
+> - 第2站｜xxx
+> - 重点观察｜xxx
+> - 小知识｜xxx
+> - 为什么｜xxx
+> - 如何工作｜xxx
+> 
+> 每个知识点都要围绕主题的核心运行逻辑展开，不要写空泛说明。文字要短、清楚、自然，避免长段落，适合儿童阅读。
+> 
+> 【画面模块】
+> 整张图建议包含以下模块：
+> 1. 顶部主标题区：清楚写出主题名称
+> 2. 开场导览区：导览 IP 引出主题
+> 3. 大型主场景区：展示主题系统的完整场景
+> 4. 导览路线区：用箭头、虚线、路径、时间节点或流程线串联知识点
+> 5. 知识站点区：用小信息框、导览牌、局部标注展示关键知识
+> 6. 小百科 / 小贴士区：补充一个有趣知识
+> 7. 收尾区：让导览 IP 做简短总结或引导
+> 
+> 【构图要求】
+> 画面采用 4:3 横版构图，整体像一本高质量儿童科普绘本的跨页，也像一张儿童科技馆导览图。画面需要有清晰的视觉重心：大型主场景占据主要空间，导览路线贯穿画面，知识模块自然分布在周围。信息丰富但不能杂乱，阅读路径要顺畅。
+> 
+> 【视觉风格】
+> 整体采用现代儿童科普绘本风格：
+> - 明亮、清爽、干净的色彩
+> - 清晰自然的手绘线条
+> - 高完成度数字插画质感
+> - 细节丰富但有秩序
+> - 可爱但不低幼
+> - 有科普图解感
+> - 有导览地图感
+> - 场景真实可信，但表达方式亲和
+> 
+> 【文字与标注】
+> 文字以中文为主，使用短标题、短标签、简短说明。不要生成大段复杂文字。信息框应像儿童科普书中的导览牌、知识卡片或小贴士。文字要尽量清晰、简洁、可读。
+> 
+> 【最终目标】
+> 让整张图像一页高质量的儿童科普绘本：孩子第一眼被可爱角色和大场景吸引，第二眼能顺着路线读懂系统如何运行，第三眼还能继续发现细节和知识点。画面要具有系列化潜力，方便后续替换不同主题继续创作同类型图片。
 
 ### 黑色吊带袜单款图鉴展示
 

@@ -19,6 +19,20 @@ A collection of 12 GPT Image 2 prompts for architecture & spaces.
 
 ## Prompts
 
+### 城市地图微缩旅行海报
+
+**Source:** @SimplyAnnisa - [https://x.com/SimplyAnnisa/status/2062358269172101240](https://x.com/SimplyAnnisa/status/2062358269172101240)
+
+![城市地图微缩旅行海报](/public/images/cases/case489.jpg)
+
+> Create a highly detailed cinematic miniature tilt-shift travel scene of [CITY NAME] featuring a realistic [VEHICLE NAME] driving along a winding elevated road that emerges naturally from a printed vintage-style city map. The road should curve dramatically toward the background skyline and landmarks of [CITY NAME], while the vehicle remains the clear focal point in the foreground.
+> 
+> Blend the real city seamlessly with the illustrated map surface so the road appears integrated into the map itself. Include recognizable local landmarks, waterways, architecture, vegetation, and atmosphere associated with [CITY NAME], but keep the composition clean and uncluttered.
+> 
+> Show large bold typography of "[CITY NAME]" printed directly on the map in the foreground. Use warm golden-hour lighting, shallow depth of field, realistic textures, cinematic shadows, aerial perspective, and photorealistic detail. The overall aesthetic should feel like a premium Instagram travel poster mixed with a miniature diorama.
+> 
+> Aspect ratio 1:1.
+
 ### 极简建筑地标海报
 
 **Source:** @iamaiistudio - [https://x.com/iamaiistudio/status/2053084576520573269](https://x.com/iamaiistudio/status/2053084576520573269)

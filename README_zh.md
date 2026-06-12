@@ -8,7 +8,7 @@
 
 <p>
   <a href="https://github.com/sindresorhus/awesome"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
-  <img src="https://img.shields.io/badge/提示词-770+-blue.svg" alt="770+ 提示词">
+  <img src="https://img.shields.io/badge/提示词-783+-blue.svg" alt="783+ 提示词">
   <img src="https://img.shields.io/badge/语言-7种-green.svg" alt="7 种语言">
   <img src="https://img.shields.io/badge/协议-CC%20BY%204.0-lightgrey.svg" alt="协议">
 </p>
@@ -47,9 +47,9 @@
 | [插画与艺术](#插画与艺术) | 8 | [生成](https://platform.useneospark.com/) |
 | [摄影](#摄影) | 6 | [生成](https://platform.useneospark.com/) |
 
-**总计：770+ 生产级提示词** — 280 个精选 + 490 个网络合集 — [在 NeoSpark 浏览完整库](https://useneospark.com/prompt-lib?ref=awesome-gpt-image-2)
+**总计：783+ 生产级提示词** — 280 个精选 + 503 个网络合集 — [在 NeoSpark 浏览完整库](https://useneospark.com/prompt-lib?ref=awesome-gpt-image-2)
 
-> 想要更多？查看 [网络合集](prompts/web-cases/README.md) ，包含从 [gpt-image2.canghe.ai](https://gpt-image2.canghe.ai/) 获取的 **490 个额外提示词**。
+> 想要更多？查看 [网络合集](prompts/web-cases/README.md) ，包含从 [gpt-image2.canghe.ai](https://gpt-image2.canghe.ai/) 获取的 **503 个额外提示词**。
 
 ---
 
@@ -933,22 +933,22 @@
 
 ## 扩展合集
 
-想要更多提示词？浏览 **[网络合集](prompts/web-cases/README.md)** — 按 13 个分类整理的 **490 个额外 GPT Image 2 提示词**：
+想要更多提示词？浏览 **[网络合集](prompts/web-cases/README.md)** — 按 13 个分类整理的 **503 个额外 GPT Image 2 提示词**：
 
 | 分类 | 提示词数量 |
 |------|-----------|
 | UI & 界面设计 | 73 |
-| 海报与排版 | 73 |
-| 摄影与写实 | 59 |
-| 图表与信息图 | 50 |
-| 插画与艺术 | 47 |
-| 产品与电商 | 35 |
+| 海报与排版 | 80 |
+| 摄影与写实 | 72 |
+| 图表与信息图 | 52 |
+| 插画与艺术 | 53 |
+| 产品与电商 | 38 |
 | 其他用例 | 28 |
-| 品牌与 Logo | 23 |
-| 角色与人物 | 21 |
-| 场景与叙事 | 17 |
+| 品牌与 Logo | 25 |
+| 角色与人物 | 24 |
+| 场景与叙事 | 20 |
 | 历史与古典主题 | 16 |
-| 建筑与空间 | 11 |
+| 建筑与空间 | 12 |
 | 文档与出版 | 10 |
 
 所有提示词均包含完整文本、来源标注和示例图片。

@@ -49,3 +49,4 @@ temp/
 # Coverage
 coverage/
 .nyc_output/
+scripts/

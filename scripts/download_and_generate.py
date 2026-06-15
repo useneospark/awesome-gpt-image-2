@@ -34,12 +34,13 @@ CATEGORY_SLUGS = {
 }
 
 
-def download_image(case_id: int) -> bool:
-    """Download a single case image."""
-    image_name = f"case{case_id}.jpg"
+def download_image(case: dict) -> bool:
+    """Download a single case image using its original filename/extension."""
+    image_name = os.path.basename(case["image"])
+    case_id = case["id"]
     image_path = IMAGES_DIR / image_name
 
-    if image_path.exists():
+    if image_path.exists() and image_path.stat().st_size > 0:
         return True  # Already downloaded
 
     url = f"{BASE_URL}/images/{image_name}"
@@ -50,10 +51,10 @@ def download_image(case_id: int) -> bool:
                 f.write(response.content)
             return True
         else:
-            print(f"  Failed to download case{case_id}.jpg (status {response.status_code})")
+            print(f"  Failed to download {image_name} (status {response.status_code})")
             return False
     except Exception as e:
-        print(f"  Error downloading case{case_id}.jpg: {e}")
+        print(f"  Error downloading {image_name}: {e}")
         return False
 
 
@@ -63,26 +64,23 @@ def download_all_images(cases: list, max_workers: int = 10) -> dict:
     IMAGES_DIR.mkdir(parents=True, exist_ok=True)
 
     results = {"success": 0, "failed": 0, "skipped": 0}
-    case_ids = [c["id"] for c in cases]
 
     with ThreadPoolExecutor(max_workers=max_workers) as executor:
-        future_to_id = {executor.submit(download_image, cid): cid for cid in case_ids}
-        for i, future in enumerate(as_completed(future_to_id)):
-            cid = future_to_id[future]
+        future_to_case = {executor.submit(download_image, case): case for case in cases}
+        for i, future in enumerate(as_completed(future_to_case)):
+            case = future_to_case[future]
+            image_name = os.path.basename(case["image"])
+            image_path = IMAGES_DIR / image_name
             success = future.result()
-            image_path = IMAGES_DIR / f"case{cid}.jpg"
-            if success and image_path.exists():
-                if image_path.stat().st_size > 0:
-                    results["success"] += 1
-                else:
-                    results["failed"] += 1
+            if success and image_path.exists() and image_path.stat().st_size > 0:
+                results["success"] += 1
             elif image_path.exists():
                 results["skipped"] += 1
             else:
                 results["failed"] += 1
 
             if (i + 1) % 50 == 0:
-                print(f"  Progress: {i + 1}/{len(case_ids)} done")
+                print(f"  Progress: {i + 1}/{len(cases)} done")
 
     print(f"Download complete: {results['success']} success, {results['failed']} failed, {results['skipped']} skipped")
     return results

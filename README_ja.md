@@ -963,3 +963,4 @@ Looking for even more prompts? Browse the **[Web Collection](prompts/web-cases/R
 | Documents & Publishing | 10 |
 
 All prompts include full text, source attribution, and example images.
+

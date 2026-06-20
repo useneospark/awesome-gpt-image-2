@@ -8,7 +8,7 @@
 
 <p>
   <a href="https://github.com/sindresorhus/awesome"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
-  <img src="https://img.shields.io/badge/プロンプト-783+-blue.svg" alt="783+ プロンプト">
+  <img src="https://img.shields.io/badge/プロンプト-856+-blue.svg" alt="856+ プロンプト">
   <img src="https://img.shields.io/badge/言語-7種-green.svg" alt="7 言語">
 </p>
 
@@ -944,22 +944,22 @@
 
 ## Extended Collection
 
-Looking for even more prompts? Browse the **[Web Collection](prompts/web-cases/README.md)** — **503 additional GPT Image 2 prompts** organized into 13 categories:
+Looking for even more prompts? Browse the **[Web Collection](prompts/web-cases/README.md)** — **576 additional GPT Image 2 prompts** organized into 13 categories:
 
 | Category | Prompts |
 |----------|---------|
-| UI & Interfaces | 73 |
-| Posters & Typography | 80 |
-| Photography & Realism | 72 |
+| UI & Interfaces | 74 |
+| Posters & Typography | 101 |
+| Photography & Realism | 109 |
 | Charts & Infographics | 52 |
-| Illustration & Art | 53 |
+| Illustration & Art | 65 |
 | Products & E-commerce | 38 |
 | Other Use Cases | 28 |
 | Brand & Logos | 25 |
 | Characters & People | 24 |
-| Scenes & Storytelling | 20 |
+| Scenes & Storytelling | 21 |
 | History & Classical Themes | 16 |
-| Architecture & Spaces | 12 |
+| Architecture & Spaces | 13 |
 | Documents & Publishing | 10 |
 
 All prompts include full text, source attribution, and example images.
